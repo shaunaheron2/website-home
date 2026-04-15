@@ -4,7 +4,7 @@
     "href": "posts.html",
     "title": "What’s New & Updated",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nTrust in Autonomous Human-Robot Collaboration: Effects of Responsive Interaction Policies\n\n\nPreprint\n\n\n\npaper\n\n\n\nResponsive robots are more trusted than reactive robots, but only when communication is viable\n\n\n\n\n\nMar 13, 2026\n\n\nShauna Heron, Meng Cheng Lau\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nTrust in Autonomous Human-Robot Collaboration: Effects of Responsive Interaction Policies\n\n\nPreprint\n\n\n\npaper\n\n\n\nResponsive robots are more trusted than reactive robots, but only when communication is viable\n\n\n\n\n\nMar 13, 2026\n\n\nShauna Heron, Meng Cheng Lau\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",
@@ -60,7 +60,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "An undergrad scientific methods and analysis II assignment I designed: website"
+    "text": "An undergrad scientific methods and analysis II assignment I designed as a TA: website"
   },
   {
     "objectID": "teaching.html#class-1",
@@ -95,7 +95,7 @@
     "href": "index.html",
     "title": "Shauna Heron",
     "section": "",
-    "text": "Lab\n  \n  \n      arXiv\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n      ORCID\n  \n\n  \n  \nI am a graduate student and healthcare-focused data scientist and R specialist with hands-on experience building production analytics systems for a mental health organization. I have deep expertise in wrangling large, complex electronic health record datasets; developing predictive models; and delivering reproducible reporting workflows that drive clinical decision-making. Graduate training in experimental psychology and machine learning provides both the statistical depth and the domain literacy to work effectively at the intersection of data science and clinical practice.\n\nPrimary: R (tidyverse, tidymodels, Quarto, ggplot2, lme4)Secondary: Python (scikit-learn, Pandas, PyTorch, TensorFlow, Hugging Face, spaCy, Ollama, LangChain)Statistics & Modelling: Generalized linear and mixed models; Bayesian hierarchical models; supervised and unsupervised machine learning; SHAP-based model interpretabilityData: Electronic health record (EHR) analytics; longitudinal data construction; feature engineering; cohort definition; SQL/SQLiteReporting & Workflow: Quarto; Shiny; reproducible PDF and HTML reports; Power BIApplied AI: Retrieval-augmented generation (RAG); LLM integration; vector databases (ChromaDB); Robotics platformsTools: Positron, VS Code, Git, NeoVIM, R Studio, JupyterOS: Linux/Unix, macOS, Windows"
+    "text": "Lab\n  \n  \n      arXiv\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n      ORCID\n  \n\n  \n  \nI am a graduate student and healthcare-focused data scientist and R specialist with hands-on experience building production analytics systems for a mental health organization. I have deep expertise in wrangling large, complex electronic health record datasets; developing predictive models; and delivering reproducible reporting workflows that drive clinical decision-making. Graduate training in experimental psychology and machine learning provides both the statistical depth and the domain literacy to work effectively at the intersection of data science and clinical practice.\n\n\nPrimary: R (tidyverse, tidymodels, Quarto, ggplot2, lme4)\nSecondary: Python (scikit-learn, Pandas, PyTorch, TensorFlow, Hugging Face, spaCy, Ollama, LangChain)\nStatistics & Modelling: Generalized linear and mixed models; Bayesian hierarchical models; supervised and unsupervised machine learning; SHAP-based model interpretability\nData: Electronic health record (EHR) analytics; longitudinal data construction; feature engineering; cohort definition; SQL/SQLite\nReporting & Workflow: Quarto; Shiny; reproducible PDF and HTML reports; Power BI\nApplied AI: Retrieval-augmented generation (RAG); LLM integration; vector databases (ChromaDB); Robotics platforms\nTools: Positron, VS Code, Git, NeoVIM, R Studio, Jupyter\nOS: Linux/Unix, macOS, Windows"
   },
   {
     "objectID": "index.html#experience",
@@ -193,7 +193,7 @@
     "href": "index.html#core-skills",
     "title": "Shauna Heron",
     "section": "",
-    "text": "Primary: R (tidyverse, tidymodels, Quarto, ggplot2, lme4)Secondary: Python (scikit-learn, Pandas, PyTorch, TensorFlow, Hugging Face, spaCy, Ollama, LangChain)Statistics & Modelling: Generalized linear and mixed models; Bayesian hierarchical models; supervised and unsupervised machine learning; SHAP-based model interpretabilityData: Electronic health record (EHR) analytics; longitudinal data construction; feature engineering; cohort definition; SQL/SQLiteReporting & Workflow: Quarto; Shiny; reproducible PDF and HTML reports; Power BIApplied AI: Retrieval-augmented generation (RAG); LLM integration; vector databases (ChromaDB); Robotics platformsTools: Positron, VS Code, Git, NeoVIM, R Studio, JupyterOS: Linux/Unix, macOS, Windows"
+    "text": "Primary: R (tidyverse, tidymodels, Quarto, ggplot2, lme4)\nSecondary: Python (scikit-learn, Pandas, PyTorch, TensorFlow, Hugging Face, spaCy, Ollama, LangChain)\nStatistics & Modelling: Generalized linear and mixed models; Bayesian hierarchical models; supervised and unsupervised machine learning; SHAP-based model interpretability\nData: Electronic health record (EHR) analytics; longitudinal data construction; feature engineering; cohort definition; SQL/SQLite\nReporting & Workflow: Quarto; Shiny; reproducible PDF and HTML reports; Power BI\nApplied AI: Retrieval-augmented generation (RAG); LLM integration; vector databases (ChromaDB); Robotics platforms\nTools: Positron, VS Code, Git, NeoVIM, R Studio, Jupyter\nOS: Linux/Unix, macOS, Windows"
   },
   {
     "objectID": "index.html#professional-experience",
@@ -214,7 +214,7 @@
     "href": "about.html",
     "title": "About Shauna Heron",
     "section": "",
-    "text": "Write who I am and what I do here."
+    "text": "Health-focused data scientist and R specialist with hands-on experience building production analytics systems for a mental health organization. Deep expertise in wrangling large, complex electronic health record datasets; developing predictive models; and delivering reproducible reporting workflows that drive clinical decision-making. Graduate training in experimental psychology and machine learning provides both the statistical depth and the domain literacy to work effectively at the intersection of data science and clinical practice."
   },
   {
     "objectID": "about.html#research",
@@ -243,5 +243,54 @@
     "title": "About Shauna Heron",
     "section": "Contact",
     "text": "Contact"
+  },
+  {
+    "objectID": "about.html#senior-data-analyst---office-of-systems-performance",
+    "href": "about.html#senior-data-analyst---office-of-systems-performance",
+    "title": "About Shauna Heron",
+    "section": "Senior Data Analyst - Office of Systems Performance",
+    "text": "Senior Data Analyst - Office of Systems Performance\nCompass Child & Youth Mental Health — Sudbury, ON | 2023–Present\nSole data analyst for a 100+ staff mental health agency serving thousands of clients annually, with programs spanning counselling and therapy, walk-in services, and supervised access.\n\nLead all analytical work on a longitudinal EHR dataset spanning 2013 to present and covering thousands of clients per year — including data extraction, cleaning, linkage, and feature engineering.\nCollaborate with clinical teams and management to translate complex analytical outputs into accessible, actionable insights.\nDesign and maintain reproducible Quarto-based reporting workflows producing weekly, monthly, and quarterly operational and clinical reports used daily by leadership and program managers.\nDeliver ad hoc analysis and data briefings directly to clinical and executive leadership to support service planning, resource allocation, and performance improvement.\nResearched and implemented two validated organizational health instruments for ongoing (yearly) monitoring of workplace culture and performance. Yearly results are analyzed and compared to prior years; findings and recommendations are presented to organizational leadership.\n\nThe SCORE Survey (Safety, Communication, Operational Reliability, and Engagement) designed to evaluate work environments in healthcare, providing actionable insights for clinical teams on topics like teamwork, safety climate, burnout, and emotional exhaustion.\nSupervisory Relationship Questionnaire (SRQ) examining the quality of supervisory relationships between clinicians and their supervisors;\n\nBuilt interpretable machine learning models using R to forecast clinician workload from EHR data, with planned integration into an operational dashboard system.\nDesigned and built an internal Retrieval-Augmented Generation (RAG) system to enable intelligent querying of the agency’s policy documentation, reducing time-to-answer for staff policy questions."
+  },
+  {
+    "objectID": "about.html#graduate-researcher",
+    "href": "about.html#graduate-researcher",
+    "title": "About Shauna Heron",
+    "section": "Graduate Researcher",
+    "text": "Graduate Researcher\nLaurentian University — Sudbury, ON | 2023–2026 (expected)\n\nMA Thesis — Machine Learning for Clinical Workload Modelling\nSupervisor: Dr. Michael Emond | Co-supervisor: Dr. Passi, Bharti School of Engineering\n(Pending defense)\n\nDeveloped longitudinal feature-engineering pipeline from large-scale EHR data to model client-related clinician workload, directly parallel to production work at Compass.\nBuilt and evaluated interpretable ML models using SHAP-based explanation, with a focus on fairness and operational validity for clinical service settings.\n\n\n\nResearch Practicum — Autonomous Human–Robot Interaction\nSupervisor: Dr. M. C. Lau, Laurentian Intelligent Mobile Robotics Lab\n\nDesigned and implemented a fully-autonomous affect-adaptive HRI system on the Misty-II robotic platform; conducted experimental pilot study on trust and dialogue policy in human–robot collaboration.\nPublished preprint (arXiv:2603.00154); paper under peer review.\n\n\n\nGraduate Teaching Assistant\nLaurentian University — 2023–2025\n\nSupported undergraduate instruction in Research Methods, Statistics, and Scientific Analysis.\nDesigned and facilitated a class research project introducing students to reproducible data workflows in R."
+  },
+  {
+    "objectID": "about.html#summary",
+    "href": "about.html#summary",
+    "title": "About Shauna Heron",
+    "section": "",
+    "text": "Health-focused data scientist and R specialist with hands-on experience building production analytics systems for a mental health organization. Deep expertise in wrangling large, complex electronic health record datasets; developing predictive models; and delivering reproducible reporting workflows that drive clinical decision-making. Graduate training in experimental psychology and machine learning provides both the statistical depth and the domain literacy to work effectively at the intersection of data science and clinical practice."
+  },
+  {
+    "objectID": "about.html#core-skills",
+    "href": "about.html#core-skills",
+    "title": "About Shauna Heron",
+    "section": "Core Skills",
+    "text": "Core Skills\nPrimary: R (tidyverse, tidymodels, Quarto, ggplot2, lme4)\nSecondary: Python (scikit-learn, Pandas, PyTorch, TensorFlow, Hugging Face, spaCy, Ollama, LangChain)\nStatistics & Modelling: Generalized linear and mixed models; Bayesian hierarchical models; supervised and unsupervised machine learning; SHAP-based model interpretability\nData: Electronic health record (EHR) analytics; longitudinal data construction; feature engineering; cohort definition; SQL/SQLite\nReporting & Workflow: Quarto; Shiny; reproducible PDF and HTML reports; Power BI\nApplied AI: Retrieval-augmented generation (RAG); LLM integration; vector databases (ChromaDB); Robotics platforms\nTools: Positron, VS Code, Git, NeoVIM, R Studio, Jupyter\nOS: Linux/Unix, macOS, Windows"
+  },
+  {
+    "objectID": "about.html#professional-experience",
+    "href": "about.html#professional-experience",
+    "title": "About Shauna Heron",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nData Analyst - Office of Systems Performance\nCompass Child & Youth Mental Health — Sudbury, ON | 2023–Present\nSole data analyst for a 100+ staff mental health agency serving thousands of clients annually, with programs spanning counselling and therapy, walk-in services, and supervised access.\n\nLead all analytical work on a longitudinal EHR dataset spanning 2013 to present and covering thousands of clients per year — including data extraction, cleaning, linkage, and feature engineering.\nCollaborate with clinical teams and management to translate complex analytical outputs into accessible, actionable insights.\nDesign and maintain reproducible Quarto-based reporting workflows producing weekly, monthly, and quarterly operational and clinical reports used daily by leadership and program managers.\nDeliver ad hoc analysis and data briefings directly to clinical and executive leadership to support service planning, resource allocation, and performance improvement.\nResearched and implemented two validated organizational health instruments for ongoing (yearly) monitoring of workplace culture and performance. Yearly results are analyzed and compared to prior years; findings and recommendations are presented to organizational leadership.\n\nThe SCORE Survey (Safety, Communication, Operational Reliability, and Engagement) designed to evaluate work environments in healthcare, providing actionable insights for clinical teams on topics like teamwork, safety climate, burnout, and emotional exhaustion.\nSupervisory Relationship Questionnaire (SRQ) examining the quality of supervisory relationships between clinicians and their supervisors;\n\nBuilt interpretable machine learning models using R to forecast clinician workload from EHR data, with planned integration into an operational dashboard system.\nDesigned and built an internal Retrieval-Augmented Generation (RAG) system to enable intelligent querying of the agency’s policy documentation, reducing time-to-answer for staff policy questions."
+  },
+  {
+    "objectID": "about.html#research-academic-experience",
+    "href": "about.html#research-academic-experience",
+    "title": "About Shauna Heron",
+    "section": "Research & Academic Experience",
+    "text": "Research & Academic Experience\n\nGraduate Researcher\nLaurentian University — Sudbury, ON | 2023–2026 (Pending defense)\nMA Thesis: Machine Learning for Clinical Workload Modelling\nSupervisor: Dr. Michael Emond | Co-supervisor: Dr. Passi, Bharti School of Engineering\n\n\nDeveloped longitudinal feature-engineering pipeline from large-scale EHR data to model client-related clinician workload, directly parallel to production work at Compass.\nBuilt and evaluated interpretable ML models using SHAP-based explanation, with a focus on fairness and operational validity for clinical service settings.\n\nResearch Practicum — Autonomous Human–Robot Interaction\nSupervisor: Dr. M. C. Lau, Laurentian Intelligent Mobile Robotics Lab\n\nDesigned and implemented a fully-autonomous affect-adaptive HRI system on the Misty-II robotic platform; conducted experimental pilot study on trust and dialogue policy in human–robot collaboration.\nPublished preprint (arXiv:2603.00154); paper under peer review.\n\n\n\nGraduate Teaching Assistant\nLaurentian University — 2023–2025\n\nSupported undergraduate instruction in Research Methods, Statistics, and Scientific Analysis.\nDesigned and facilitated a class research project introducing students to reproducible data workflows in R."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Shauna Heron",
+    "section": "Education",
+    "text": "Education\nMA, Experimental Psychology (Computational Science focus)\nThesis submitted, pending oral defense\nLaurentian University, 2023–2026 (expected)\n\nSpecial permission granted to complete graduate-level Computational Science coursework (AI & ML, Data Mining).\nAwards: Ontario Graduate Research Award (2025); IAMGOLD President’s Innovation Fund (2025)\n\nBSc Honours, Applied Science / Psychology Specialization — Magna Cum Laude\nLaurentian University, 2019–2022\n\n\nAwards: Canadian Psychological Association Academic Excellence Award, Best Undergraduate Thesis (2022)"
   }
 ]

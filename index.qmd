@@ -34,29 +34,18 @@ about:
     - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
       href: https://orcid.org/0000-0002-9262-6718     
       target: _blank
-    # - text: "{{< ai clarivate >}} Web of Science"
-    #   href: https://www.webofscience.com  
-    #   target: _blank
-    # - text: "{{< ai scopus >}} Scopus"
-    #   href: https://www.scopus.com
-    #   target: _blank
-    # - text: "{{< ai google-scholar >}} Google Scholar"
-    #   href: https://scholar.google.com
-    #   target: _blank
-#    - text: "{{< ai researchgate >}} Research Gate"
-#      href: https://www.researchgate.net
-#      target: _blank
+
 
 listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
   - id: recent-posts
     contents: 
       - posts
-      - posts/post-links.yml
+     # - posts/post-links.yml
     exclude:
       title: ""
     type: grid
     max-items: 3
-#    image-height: 150px
+    image-height: 250px
     page-size: 3 #set same as max-times to remove the page number setting
     fields: [image, date, title, subtitle]
     max-description-length: 75
@@ -84,16 +73,5 @@ I am a graduate student and healthcare-focused data scientist and R specialist w
 :::
 
 
-```{r}
-#| echo: false
-# <!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
-# ## Recent Posts
-# Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
 
-# :::{#recent-posts}
-# :::
-
-#<p align="right">[All Posts »](/posts.qmd)</p>
-
-```
 

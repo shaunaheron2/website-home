@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
-subtitle: "I teach."
+#subtitle: "I teach."
 title-block-banner: false
 ---
 
-An undergrad scientific methods and analysis II assignment I designed: [website](https://shaunaheron2.github.io/PSYCH_2126/index.html)
+An undergrad scientific methods and analysis II assignment I designed as a TA: [website](https://shaunaheron2.github.io/PSYCH_2126/index.html)

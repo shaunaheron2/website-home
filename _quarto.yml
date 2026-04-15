@@ -5,7 +5,7 @@ project:
    # - python xlsx_to_yml.py  # Automatically generate publications.yml from publications.xlsx
     
 # Meta
-description-meta: "Hi I'm Shauna"
+description-meta: "Hi I'm"
 author-meta: "Shauna Heron"
 
 website:
@@ -33,8 +33,8 @@ website:
             href: posts.qmd#category=paper
          # - text: Grants
           #  href: projects.qmd                                
-      - text: Teaching # Comment the Teaching part out to remove the Teaching page
-        href: teaching.qmd
+      #- text: Teaching # Comment the Teaching part out to remove the Teaching page
+      #  href: teaching.qmd
       # - text: Outreach
       #   menu:        
       #   - text: Presentations
