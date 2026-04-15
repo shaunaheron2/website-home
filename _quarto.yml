@@ -5,13 +5,13 @@ project:
    # - python xlsx_to_yml.py  # Automatically generate publications.yml from publications.xlsx
     
 # Meta
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
+description-meta: "Hi I'm Shauna"
 author-meta: "Shauna Heron"
 
 website:
   title: "Shauna Heron"
   image: "https://quarto.org/quarto.png"
-  description: "Quarto Academic Website Template adapted by Dr. Gang He"
+  description: "Hi I'm Shauna"
  
   navbar:
     background: light  # You can change the background color here
@@ -19,14 +19,10 @@ website:
     left:   # You can comment out all navigation items here if you just like to keep the index page only
 #      - text: Home
 #        href: index.qmd
-     # - text: About
-       # menu:
-          # - text: News
-          #   href: posts.qmd#category=news
-          # - text: Events
-          #   href: posts.qmd#category=event      
-          # - text: Contact
-          #   href: contact.qmd             
+     
+      - text: About
+        href: about.qmd
+        
       - text: Research
         menu:
           # - text: Publications Listing  # Automatically generated from publications.xlsx
@@ -35,8 +31,8 @@ website:
           #   href: publications.qmd            
           - text: Selected Papers
             href: posts.qmd#category=paper
-          - text: Grants
-            href: projects.qmd                                
+         # - text: Grants
+          #  href: projects.qmd                                
       - text: Teaching # Comment the Teaching part out to remove the Teaching page
         href: teaching.qmd
       # - text: Outreach

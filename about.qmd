@@ -1,0 +1,14 @@
+---
+title: "About Shauna Heron"
+description-meta: "Who am I and what do I do?"
+title-block-banner: false
+---
+Write who I am and what I do here.
+
+## Research 
+
+## Education and Credentials
+
+## Personal
+
+## Contact
