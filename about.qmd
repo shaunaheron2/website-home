@@ -1,14 +1,13 @@
 ---
 title: "About Shauna Heron"
-subtitle: Health Data Scientist · R Specialist · Clinical Analytics
+subtitle: Experimental Psychology · Health Data Science · R Specialist · Clinical Analytics · Human–Robot Interaction
 description-meta: "Who am I and what do I do?"
 title-block-banner: false
 ---
 
 ## Summary
 
-Health-focused data scientist and R specialist with hands-on experience building production analytics systems for a mental health organization. Deep expertise in wrangling large, complex electronic health record datasets; developing predictive models; and delivering reproducible reporting workflows that drive clinical decision-making. Graduate training in experimental psychology and machine learning provides both the statistical depth and the domain literacy to work effectively at the intersection of data science and clinical practice.
-
+Hi! I am an experimental psychology grad studentwith hands-on experience building production analytics systems for a large mental health organization. I have deep expertise in wrangling large, complex electronic health record datasets with R and Python; developing predictive models; and delivering reproducible reporting workflows that support clinical decision-making. Graduate training in experimental psychology and machine learning provides both the statistical depth and the domain literacy to work effectively at the intersection of data science and clinical practice.
 
 ## Core Skills
 
