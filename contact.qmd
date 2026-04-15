@@ -6,19 +6,15 @@ title-block-banner: false
 
 <center>
 
-**Quarto Academic**
+**Shauna Heron**
 
-School
-
-College
-
-University
+Laurentian University
 
 Address: 
 
-Phone: 
+Phone: 705-561-9026
 
-E-mail: 
+E-mail: sheron@laurentian.ca
 
 
 </center>
