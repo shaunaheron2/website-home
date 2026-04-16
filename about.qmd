@@ -7,7 +7,7 @@ title-block-banner: false
 
 ## Summary
 
-Hi! I am an experimental psychology grad studentwith hands-on experience building production analytics systems for a large mental health organization. I have deep expertise in wrangling large, complex electronic health record datasets with R and Python; developing predictive models; and delivering reproducible reporting workflows that support clinical decision-making. Graduate training in experimental psychology and machine learning provides both the statistical depth and the domain literacy to work effectively at the intersection of data science and clinical practice.
+Hi! I am an experimental psychology grad student with hands-on experience building production analytics systems for a large mental health organization. I have deep expertise in wrangling large, complex electronic health record datasets with R and Python; developing predictive models and delivering reproducible reporting workflows that support clinical decision-making. Graduate training in experimental psychology and machine learning provides both the statistical depth and the domain literacy to work effectively at the intersection of data science and clinical practice.
 
 ## Core Skills
 
