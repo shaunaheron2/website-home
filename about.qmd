@@ -21,5 +21,5 @@ I came to research the long way around: early-web work in the Netherlands, a sti
 
 - Applications of data science in public and population health--especially mental health, and especially in community settings. I want to know how we can use data to make care more effective, efficient, and equitable, without adding to the burden on clinicians or patients.
 - When is a machine-learning model the right tool for a clinical or operational problem, and — more often — when is it the wrong one? I'm interested in interpretable models, fairness audits, and being honest about what a model can't do.
-- tbh there isn't much I'm not curious about.
+- How do we design robots that people can actually work with? I want to understand how people form trust in autonomous systems, and how we can design those systems to be trustworthy in the real world.
 
