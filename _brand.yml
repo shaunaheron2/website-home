@@ -1,0 +1,37 @@
+meta:
+  name: brand.yml
+  link: https://posit-dev.github.io/brand-yml
+
+#logo: logos/icon/brand-yml-icon-color.svg
+
+# color:
+#   palette:
+#     black: "#1A1A1A"
+#     white: "#F9F9F9"
+#     orange: "#FF6F20"
+#     pink: "#FF3D7F"
+#   foreground: black
+#   background: white
+#   primary: orange
+#   danger: pink
+
+typography:
+  fonts:
+    - family: Source Sans Pro
+      source: google
+    - family: Merriweather
+      source: google
+    - family: Lora
+      source: google
+    - family: Roboto
+      source: google
+    - family: Fira Code
+      source: bunny
+    - family: Open Sans
+      source: bunny
+  base: Source Sans Pro
+  headings:
+    family: Lora
+   # size: 1rem
+    weight: light
+  monospace: Fira Code

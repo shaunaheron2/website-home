@@ -1,75 +1,24 @@
 ---
 title: "About Shauna Heron"
-subtitle: Experimental Psychology · Health Data Science · R Specialist · Clinical Analytics · Human–Robot Interaction
+subtitle: Data science · Experimental psychology · Human–robot interaction
 description-meta: "Who am I and what do I do?"
 title-block-banner: false
 ---
 
-## Summary
 
-Hi! I am an experimental psychology grad student with hands-on experience building production analytics systems for a large mental health organization. I have deep expertise in wrangling large, complex electronic health record datasets with R and Python; developing predictive models and delivering reproducible reporting workflows that support clinical decision-making. Graduate training in experimental psychology and machine learning provides both the statistical depth and the domain literacy to work effectively at the intersection of data science and clinical practice.
+## What I'm working on right now
 
-## Core Skills
+- Finishing my master's thesis — a machine-learning analysis of clinician workload in community mental health care — and preparing for my oral defense.
+- Deciding between starting a PhD in engineering science (robotics & automation, at Laurentian) or moving into an industry data science role 🤔
 
-**Primary:** R (tidyverse, tidymodels, Quarto, ggplot2, lme4)\
-**Secondary:** Python (scikit-learn, Pandas, PyTorch, TensorFlow, Hugging Face, spaCy, Ollama, LangChain)\
-**Statistics & Modelling:** Generalized linear and mixed models; Bayesian hierarchical models; supervised and unsupervised machine learning; SHAP-based model interpretability\
-**Data:** Electronic health record (EHR) analytics; longitudinal data construction; feature engineering; cohort definition; SQL/SQLite\
-**Reporting & Workflow:** Quarto; Shiny; reproducible PDF and HTML reports; Power BI\
-**Applied AI:** Retrieval-augmented generation (RAG); LLM integration; vector databases (ChromaDB); Robotics platforms\
-**Tools:** Positron, VS Code, Git, NeoVIM, R Studio, Jupyter\
-**OS:** Linux/Unix, macOS, Windows\
+## What I'm curious about
+
+- Applications of data science in public and population health--especially mental health, and especially in community settings. I want to know how we can use data to make care more effective, efficient, and equitable, without adding to the burden on clinicians or patients.
+- When is a machine-learning model the right tool for a clinical or operational problem, and — more often — when is it the wrong one? I'm interested in interpretable models, fairness audits, and being honest about what a model can't do.
 
 
-## Professional Experience
+## A bit of the longer story
 
-### Data Analyst - Office of Systems Performance
-**Compass Child & Youth Mental Health** — Sudbury, ON | 2023–Present
+My favourite kind of problem is messy. Give me a giant health record dataset with 13 possible joins, a pile of wonky Excel files, a robot that only behaves on a strict set of rules, or a question a clinical team has been asking for years — I want to figure out which code or tools will turn that mess into something actually useful. 
 
-Sole data analyst for a 100+ staff mental health agency serving thousands of clients annually, with programs spanning counselling and therapy, walk-in services, and supervised access.
-
-- Lead all analytical work on a longitudinal EHR dataset spanning 2013 to present and covering thousands of clients per year — including data extraction, cleaning, linkage, and feature engineering.
-- Collaborate with clinical teams and management to translate complex analytical outputs into accessible, actionable insights.
-- Design and maintain reproducible Quarto-based reporting workflows producing weekly, monthly, and quarterly operational and clinical reports used daily by leadership and program managers.
-- Deliver ad hoc analysis and data briefings directly to clinical and executive leadership to support service planning, resource allocation, and performance improvement.
-- Researched and implemented two validated organizational health instruments for ongoing (yearly) monitoring of workplace culture and performance. Yearly results are analyzed and compared to prior years; findings and recommendations are presented to organizational leadership.
-- Built interpretable machine learning models using R to forecast clinician workload from EHR data, with planned integration into an operational dashboard system.
-- Designed and built an internal Retrieval-Augmented Generation (RAG) system to enable intelligent querying of the agency's policy documentation, reducing time-to-answer for staff policy questions.
-
-
-## Research & Academic Experience
-
-### Graduate Researcher
-**Laurentian University** — Sudbury, ON | 2023–2026 (Pending defense)
-
-***MA Thesis: Machine Learning for Clinical Workload Modelling***\
-Supervisor: *Dr. Michael Emond | Co-supervisor: Dr. Passi, Bharti School of Engineering*\
-
-- Developed longitudinal feature-engineering pipeline from large-scale EHR data to model client-related clinician workload, directly parallel to production work at Compass.
-- Built and evaluated interpretable ML models using SHAP-based explanation, with a focus on fairness and operational validity for clinical service settings.
-
-***Research Practicum — Autonomous Human–Robot Interaction***\
-*Supervisor: Dr. M. C. Lau, Laurentian Intelligent Mobile Robotics Lab*
-
-- Designed and implemented a fully-autonomous affect-adaptive HRI system on the Misty-II robotic platform; conducted experimental pilot study on trust and dialogue policy in human–robot collaboration.
-- Published preprint (arXiv:2603.00154); paper under peer review.
-
-### Graduate Teaching Assistant
-**Laurentian University** — 2023–2025
-
-- Supported undergraduate instruction in Research Methods, Statistics, and Scientific Analysis.
-- Designed and facilitated a class research project introducing students to reproducible data workflows in R.
-
-## Education
-
-**MA, Experimental Psychology** *(Computational Science focus)*\
-Thesis submitted, pending oral defense\
-Laurentian University, 2023–2026 (expected)
-
-- Special permission granted to complete graduate-level Computational Science coursework (AI & ML, Data Mining).
-- **Awards:** Ontario Graduate Research Award (2025); IAMGOLD President's Innovation Fund (2025)
-
-**BSc Honours, Applied Science / Psychology Specialization** — *Magna Cum Laude*\
-Laurentian University, 2019–2022\
-
-- **Awards:** Canadian Psychological Association Academic Excellence Award, Best Undergraduate Thesis (2022)
+I came to research the long way around: early-web work in the Netherlands, a stint as a youth officer in secure custody, a decade running an award-winning wedding-photography business. Each was its own version of the same passion — learning a new system fast, and paying close attention to how people actually behaved inside it. That's still what my research is about, whether the system is a machine-learning model running on clinical data or a small robot trying to hold a conversation.

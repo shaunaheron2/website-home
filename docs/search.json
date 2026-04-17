@@ -1,17 +1,31 @@
 [
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "What’s New & Updated",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Shauna Heron",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nTrust in Autonomous Human-Robot Collaboration: Effects of Responsive Interaction Policies\n\n\nPreprint\n\n\n\npaper\n\n\n\nResponsive robots are more trusted than reactive robots, but only when communication is viable\n\n\n\n\n\nMar 13, 2026\n\n\nShauna Heron, Meng Cheng Lau\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\nNo matching items"
+    "text": "Finishing my master’s thesis — a machine-learning analysis of clinician workload in community mental health care — and preparing for my oral defense.\nDeciding between starting a PhD in engineering science (robotics & automation, at Laurentian) or moving into an industry data science role 🤔"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "about.html#what-im-working-on-right-now",
+    "href": "about.html#what-im-working-on-right-now",
+    "title": "About Shauna Heron",
     "section": "",
-    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of January 2025:"
+    "text": "Finishing my master’s thesis — a machine-learning analysis of clinician workload in community mental health care — and preparing for my oral defense.\nDeciding between starting a PhD in engineering science (robotics & automation, at Laurentian) or moving into an industry data science role 🤔"
+  },
+  {
+    "objectID": "about.html#what-im-curious-about",
+    "href": "about.html#what-im-curious-about",
+    "title": "About Shauna Heron",
+    "section": "What I’m curious about",
+    "text": "What I’m curious about\n\nApplications of data science in public and population health–especially mental health, and especially in community settings. I want to know how we can use data to make care more effective, efficient, and equitable, without adding to the burden on clinicians or patients.\nWhen is a machine-learning model the right tool for a clinical or operational problem, and — more often — when is it the wrong one? I’m interested in interpretable models, fairness audits, and being honest about what a model can’t do."
+  },
+  {
+    "objectID": "about.html#a-bit-of-the-longer-story",
+    "href": "about.html#a-bit-of-the-longer-story",
+    "title": "About Shauna Heron",
+    "section": "A bit of the longer story",
+    "text": "A bit of the longer story\nMy favourite kind of problem is messy. Give me a giant health record dataset with 13 possible joins, a pile of wonky Excel files, a robot that only behaves on a strict set of rules, or a question a clinical team has been asking for years — I want to figure out which code or tools will turn that mess into something actually useful.\nI came to research the long way around: early-web work in the Netherlands, a stint as a youth officer in secure custody, a decade running an award-winning wedding-photography business. Each was its own version of the same passion — learning a new system fast, and paying close attention to how people actually behaved inside it. That’s still what my research is about, whether the system is a machine-learning model running on clinical data or a small robot trying to hold a conversation."
   },
   {
     "objectID": "publications.html#selected-work",
@@ -28,60 +42,25 @@
     "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/news-title/index.html",
-    "href": "posts/news-title/index.html",
-    "title": "News item",
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "What’s New & Updated",
     "section": "",
-    "text": "About the news"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nTrust in Autonomous Human-Robot Collaboration: Effects of Responsive Interaction Policies\n\n\nPreprint\n\n\n\npaper\n\n\n\nResponsive robots are more trusted than reactive robots, but only when communication is viable\n\n\n\n\n\nMar 13, 2026\n\n\nShauna Heron, Meng Cheng Lau\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/news-title/index.html#summary",
-    "href": "posts/news-title/index.html#summary",
-    "title": "News item",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Shauna Heron",
     "section": "",
-    "text": "About the news"
+    "text": "Lab\n  \n  \n      arXiv\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n      ORCID\n  \n\n  \n  \n\n\nThanks for stopping by!\nDuring the day I work as the data scientist for a community child and youth mental health agency, where I build the models, dashboards, and reproducible reports the clinical teams use. Most of my days involve writing R (and increasingly Python), wrangling big, messy EHR datasets, fitting statistical models to that data, and thinking about how machine-learning systems behave in the real world. It’s this work that helps keep me honest about what data can and can’t do.\nI’m also a researcher finishing up a graduate degree in experimental psychology with a strong computational focus. My research sits in two places that turn out to have more in common than they look: applied machine learning on electronic health record data, and autonomous human–robot interaction. Both are really questions about what it takes to make a probabilistic system both useful and reliable in a setting where people depend on it."
   },
   {
-    "objectID": "posts/paper-title/index.html#abstract",
-    "href": "posts/paper-title/index.html#abstract",
-    "title": "Trust in Autonomous Human-Robot Collaboration: Effects of Responsive Interaction Policies",
+    "objectID": "index.html#hey-im-shauna.",
+    "href": "index.html#hey-im-shauna.",
+    "title": "Shauna Heron",
     "section": "",
-    "text": "arXiv\n\n\nTrust plays a central role in human–robot collaboration, yet its formation is rarely examined under the constraints of fully autonomous interaction. This pilot study investigated how interaction policy influences trust during in-person collaboration with a social robot operating without Wizard-of-Oz control or scripted repair. Participants completed a multi-stage collaborative task with a mobile robot that autonomously managed spoken-language dialogue, affect inference, and task progression. Two interaction policies were compared: a responsive policy, in which the robot proactively adapted its dialogue and assistance based on inferred interaction state, and a neutral, reactive policy, in which the robot provided only direct, task-relevant responses when prompted. Responsive interaction was associated with significantly higher post-interaction trust under viable communication conditions, despite no reliable differences in overall task accuracy. Sensitivity analyses indicated that affective and experiential components of trust were more sensitive to communication breakdown than evaluative judgments of reliability, and that as language-mediated interaction degraded, the trust advantage associated with responsiveness attenuated and ratings became less clearly interpretable as calibrated evaluations of collaborative competence. These findings suggest that trust in autonomous human–robot interaction emerges from process-level interaction dynamics and operates within constraints imposed by communication viability, highlighting the importance of evaluating trust under real autonomy conditions when designing interactive robotic systems.\n\n\n\nMisty-II"
-  },
-  {
-    "objectID": "posts/paper-title/index.html#links",
-    "href": "posts/paper-title/index.html#links",
-    "title": "Trust in Autonomous Human-Robot Collaboration: Effects of Responsive Interaction Policies",
-    "section": "Links",
-    "text": "Links\nPublished paper\nResearch poster"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "An undergrad scientific methods and analysis II assignment I designed as a TA: website"
-  },
-  {
-    "objectID": "teaching.html#class-1",
-    "href": "teaching.html#class-1",
-    "title": "Teaching",
-    "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
-  },
-  {
-    "objectID": "teaching.html#class-2",
-    "href": "teaching.html#class-2",
-    "title": "Teaching",
-    "section": "Class 2",
-    "text": "Class 2\n\n\n\n\n\nSpring 2025,   Fall 2023\nClass 2 introduction."
-  },
-  {
-    "objectID": "teaching.html#class-3",
-    "href": "teaching.html#class-3",
-    "title": "Teaching",
-    "section": "Class 3",
-    "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
+    "text": "Thanks for stopping by!\nDuring the day I work as the data scientist for a community child and youth mental health agency, where I build the models, dashboards, and reproducible reports the clinical teams use. Most of my days involve writing R (and increasingly Python), wrangling big, messy EHR datasets, fitting statistical models to that data, and thinking about how machine-learning systems behave in the real world. It’s this work that helps keep me honest about what data can and can’t do.\nI’m also a researcher finishing up a graduate degree in experimental psychology with a strong computational focus. My research sits in two places that turn out to have more in common than they look: applied machine learning on electronic health record data, and autonomous human–robot interaction. Both are really questions about what it takes to make a probabilistic system both useful and reliable in a setting where people depend on it."
   },
   {
     "objectID": "contact.html",
@@ -89,34 +68,6 @@
     "title": "Contact",
     "section": "",
     "text": "Shauna Heron\nLaurentian University\nAddress:\nPhone: 705-561-9026\nE-mail: sheron@laurentian.ca"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Shauna Heron",
-    "section": "",
-    "text": "Lab\n  \n  \n      arXiv\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n      ORCID\n  \n\n  \n  \nI am a graduate student and healthcare-focused data scientist and R specialist with hands-on experience building production analytics systems for a mental health organization. I have deep expertise in wrangling large, complex electronic health record datasets, developing predictive models, and delivering reproducible reporting workflows that drive clinical decision-making. Graduate training in experimental psychology and machine learning provides both the statistical depth and the domain literacy to work effectively at the intersection of data science and clinical practice.\n\n\nPrimary: R (tidyverse, tidymodels, Quarto, ggplot2, lme4)\nSecondary: Python (scikit-learn, Pandas, PyTorch, TensorFlow, Hugging Face, spaCy, Ollama, LangChain)\nStatistics & Modelling: Generalized linear and mixed models; Bayesian hierarchical models; supervised and unsupervised machine learning; SHAP-based model interpretability\nData: Electronic health record (EHR) analytics; longitudinal data construction; feature engineering; cohort definition; SQL/SQLite\nReporting & Workflow: Quarto; Shiny; reproducible PDF and HTML reports; Power BI\nApplied AI: Retrieval-augmented generation (RAG); LLM integration; vector databases (ChromaDB); Robotics platforms\nTools: Positron, VS Code, Git, NeoVIM, R Studio, Jupyter\nOS: Linux/Unix, macOS, Windows"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Shauna Heron BSc, Graduate Candidate",
-    "section": "",
-    "text": "Researcher, Univerisity"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Shauna Heron BSc, Graduate Candidate",
-    "section": "",
-    "text": "PhD, Univerisity"
-  },
-  {
-    "objectID": "index.html#recent-posts",
-    "href": "index.html#recent-posts",
-    "title": "Shauna Heron, BSc, Graduate Candidate",
-    "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
   },
   {
     "objectID": "people.html",
@@ -140,6 +91,27 @@
     "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2022-01\n\n\n2026-01\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024-01\n\n\n2025-01\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2023-01\n\n\n2024-01\n\n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "posts/paper-title/index.html",
+    "href": "posts/paper-title/index.html",
+    "title": "Trust in Autonomous Human-Robot Collaboration: Effects of Responsive Interaction Policies",
+    "section": "",
+    "text": "arXiv\n\n\nTrust plays a central role in human–robot collaboration, yet its formation is rarely examined under the constraints of fully autonomous interaction. This pilot study investigated how interaction policy influences trust during in-person collaboration with a social robot operating without Wizard-of-Oz control or scripted repair. Participants completed a multi-stage collaborative task with a mobile robot that autonomously managed spoken-language dialogue, affect inference, and task progression. Two interaction policies were compared: a responsive policy, in which the robot proactively adapted its dialogue and assistance based on inferred interaction state, and a neutral, reactive policy, in which the robot provided only direct, task-relevant responses when prompted. Responsive interaction was associated with significantly higher post-interaction trust under viable communication conditions, despite no reliable differences in overall task accuracy. Sensitivity analyses indicated that affective and experiential components of trust were more sensitive to communication breakdown than evaluative judgments of reliability, and that as language-mediated interaction degraded, the trust advantage associated with responsiveness attenuated and ratings became less clearly interpretable as calibrated evaluations of collaborative competence. These findings suggest that trust in autonomous human–robot interaction emerges from process-level interaction dynamics and operates within constraints imposed by communication viability, highlighting the importance of evaluating trust under real autonomy conditions when designing interactive robotic systems.\n\n\n\nMisty-II"
+  },
+  {
+    "objectID": "posts/paper-title/index.html#abstract",
+    "href": "posts/paper-title/index.html#abstract",
+    "title": "Trust in Autonomous Human-Robot Collaboration: Effects of Responsive Interaction Policies",
+    "section": "",
+    "text": "arXiv\n\n\nTrust plays a central role in human–robot collaboration, yet its formation is rarely examined under the constraints of fully autonomous interaction. This pilot study investigated how interaction policy influences trust during in-person collaboration with a social robot operating without Wizard-of-Oz control or scripted repair. Participants completed a multi-stage collaborative task with a mobile robot that autonomously managed spoken-language dialogue, affect inference, and task progression. Two interaction policies were compared: a responsive policy, in which the robot proactively adapted its dialogue and assistance based on inferred interaction state, and a neutral, reactive policy, in which the robot provided only direct, task-relevant responses when prompted. Responsive interaction was associated with significantly higher post-interaction trust under viable communication conditions, despite no reliable differences in overall task accuracy. Sensitivity analyses indicated that affective and experiential components of trust were more sensitive to communication breakdown than evaluative judgments of reliability, and that as language-mediated interaction degraded, the trust advantage associated with responsiveness attenuated and ratings became less clearly interpretable as calibrated evaluations of collaborative competence. These findings suggest that trust in autonomous human–robot interaction emerges from process-level interaction dynamics and operates within constraints imposed by communication viability, highlighting the importance of evaluating trust under real autonomy conditions when designing interactive robotic systems.\n\n\n\nMisty-II"
+  },
+  {
+    "objectID": "posts/paper-title/index.html#links",
+    "href": "posts/paper-title/index.html#links",
+    "title": "Trust in Autonomous Human-Robot Collaboration: Effects of Responsive Interaction Policies",
+    "section": "Links",
+    "text": "Links\nPublished paper\nResearch poster"
+  },
+  {
     "objectID": "pub-listing.html",
     "href": "pub-listing.html",
     "title": "Publications",
@@ -154,143 +126,17 @@
     "text": "Selected Work\n\n\n\nQuantifying the Cost Savings of Global Solar Photovoltaic Supply Chains Helveston, John, Gang He*, and Michael Davidson Oct 26, 2022\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMg=='); return false;\"&gt;2022&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('YXdhcmQ='); return false;\"&gt;award&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aG90LXBhcGVy'); return false;\"&gt;hot-paper&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3VwcGx5LWNoYWlu'); return false;\"&gt;supply-chain&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('dW5pdGVkLXN0YXRlcw=='); return false;\"&gt;united-states&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('Y2hpbmE='); return false;\"&gt;china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('Z2VybWFueQ=='); return false;\"&gt;germany&lt;/span&gt;\n\n\nHelveston, John, Gang He*, and Michael Davidson. 2022. Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains. Nature 612: 83-87. doi: 10.1038/s41586-022-05316-6.  \n\n\n Preprint  SharedIt  GitHub  Data  \n\n\n Award: IAMC2022 Best Poster Award\n\n\nCoverage: SBU News | GWU News | UCSD News | Nature Research Highlights | E&E News | Foreign Policy | GRID News | PV Magazine | dot.LA | pvbuzz | InnovateLongIsland | Mercom India | China News | Science and Technology Daily\n\n\nInvited presentation: Peking University | Tsinghua University | Harvard University (M.D.) | ITIF (J.H.) | Climate Change Economics Forum\n\n\n\n\nNo matching items\n\n\n\nRapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System He, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke* May 15, 2020\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMA=='); return false;\"&gt;2020&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cG93ZXItc3lzdGVt'); return false;\"&gt;power-system&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3dpdGNoLWNoaW5h'); return false;\"&gt;switch-china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('d2luZA=='); return false;\"&gt;wind&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3RvcmFnZQ=='); return false;\"&gt;storage&lt;/span&gt;\n\n\nHe, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke*. 2020. Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System. Nature Communications 11(1): 2486. doi: 10.1038/s41467-020-16184-x. \n\n\n PDF  GitHub  Supplemental  \n\n\nCoverage: SBU News | LBL News | Carbon Brief Headline | InsideClimateNews | E&E News/ClimateWire | Forbes | Nature News\n\n\nInvited presentation: Asia Pacific Energy Research Centre (APERC) Annual Conference 2020 | Beijing Institute of Technology | Dartmouth College | Harvard Kennedy School Growth Lab\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "pub-listing.html#other-peer-reviewed-journal-papers",
-    "href": "pub-listing.html#other-peer-reviewed-journal-papers",
-    "title": "Publications",
-    "section": "Other Peer-reviewed Journal Papers",
-    "text": "Other Peer-reviewed Journal Papers\n\n\n\nLong-Term Transition of China's Power Sector under Carbon Neutrality Target and Water Withdrawal Constraint Zhang, Chao, Gang He*, Josiah Johnston, and Lijin Zhong Dec 20, 2021\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMQ=='); return false;\"&gt;2021&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('ZW5lcmd5LW5leHVz'); return false;\"&gt;energy-nexus&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cG93ZXItc3lzdGVt'); return false;\"&gt;power-system&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('d2F0ZXI='); return false;\"&gt;water&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3dpdGNoLWNoaW5h'); return false;\"&gt;switch-china&lt;/span&gt;\n\n\nZhang, Chao, Gang He*, Josiah Johnston, and Lijin Zhong. 2021. Long-Term Transition of China's Power Sector under Carbon Neutrality Target and Water Withdrawal Constraint. Journal of Cleaner Production 329: 129765. doi: 10.1016/j.jclepro.2021.129765.\n\n\n PDF  GitHub  Supplemental  \n\n\n\n\nNo matching items\n\nPublications – Quarto Academic Publications – Quarto Academic Publications – Quarto Academic Quarto Academic Quarto Academic Website Template adapted by Dr. Gang He Quarto Academic Website Template adapted by Dr. Gang He Quarto Academic Website Template adapted by Dr. Gang He"
-  },
-  {
     "objectID": "pub-listing.html#peer-reviewed-journal-papers",
     "href": "pub-listing.html#peer-reviewed-journal-papers",
     "title": "Publications",
     "section": "Peer-reviewed Journal Papers",
-    "text": "Peer-reviewed Journal Papers\n\n\n\nRapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System He, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke* May 15, 2020\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMA=='); return false;\"&gt;2020&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cG93ZXItc3lzdGVt'); return false;\"&gt;power-system&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3dpdGNoLWNoaW5h'); return false;\"&gt;switch-china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('d2luZA=='); return false;\"&gt;wind&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3RvcmFnZQ=='); return false;\"&gt;storage&lt;/span&gt;\n\n\nHe, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke*. 2020. Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System. Nature Communications 11(1): 2486. doi: 10.1038/s41467-020-16184-x. \n\n\n PDF  GitHub  Supplemental  \n\n\nCoverage: SBU News | LBL News | Carbon Brief Headline | InsideClimateNews | E&E News/ClimateWire | Forbes | Nature News\n\n\nInvited presentation: Asia Pacific Energy Research Centre (APERC) Annual Conference 2020 | Beijing Institute of Technology | Dartmouth College | Harvard Kennedy School Growth Lab\n\n\n\n\nNo matching items\n\nPublications – Shauna Heron Publications – Shauna Heron Publications – Shauna Heron Shauna Heron Quarto Academic Website Template adapted by Dr. Gang He Quarto Academic Website Template adapted by Dr. Gang He"
+    "text": "Peer-reviewed Journal Papers\n\n\n\nRapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System He, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke* May 15, 2020\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMA=='); return false;\"&gt;2020&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cG93ZXItc3lzdGVt'); return false;\"&gt;power-system&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3dpdGNoLWNoaW5h'); return false;\"&gt;switch-china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('d2luZA=='); return false;\"&gt;wind&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3RvcmFnZQ=='); return false;\"&gt;storage&lt;/span&gt;\n\n\nHe, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke*. 2020. Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System. Nature Communications 11(1): 2486. doi: 10.1038/s41467-020-16184-x. \n\n\n PDF  GitHub  Supplemental  \n\n\nCoverage: SBU News | LBL News | Carbon Brief Headline | InsideClimateNews | E&E News/ClimateWire | Forbes | Nature News\n\n\nInvited presentation: Asia Pacific Energy Research Centre (APERC) Annual Conference 2020 | Beijing Institute of Technology | Dartmouth College | Harvard Kennedy School Growth Lab\n\n\n\n\nNo matching items\n\nPublications – Shauna Heron Publications – Shauna Heron Publications – Shauna Heron Shauna Heron Hi I’m Shauna Hi I’m Shauna"
   },
   {
-    "objectID": "index.html#senior-data-analyst---office-of-systems-performance",
-    "href": "index.html#senior-data-analyst---office-of-systems-performance",
-    "title": "Shauna Heron",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "Compass Child & Youth Mental Health — Sudbury, ON | 2023–Present\nSole data analyst for a 100+ staff mental health agency serving thousands of clients annually, with programs spanning counselling and therapy, walk-in services, and supervised access.\n\nLead all analytical work on a longitudinal EHR dataset spanning 2013 to present and covering thousands of clients per year — including data extraction, cleaning, linkage, and feature engineering.\nCollaborate with clinical teams and management to translate complex analytical outputs into accessible, actionable insights.\nDesign and maintain reproducible Quarto-based reporting workflows producing weekly, monthly, and quarterly operational and clinical reports used daily by leadership and program managers.\nDeliver ad hoc analysis and data briefings directly to clinical and executive leadership to support service planning, resource allocation, and performance improvement.\nResearched and implemented two validated organizational health instruments for ongoing (yearly) monitoring of workplace culture and performance. Yearly results are analyzed and compared to prior years; findings and recommendations are presented to organizational leadership.\n\nThe SCORE Survey (Safety, Communication, Operational Reliability, and Engagement) designed to evaluate work environments in healthcare, providing actionable insights for clinical teams on topics like teamwork, safety climate, burnout, and emotional exhaustion.\n\nSupervisory Relationship Questionnaire (SRQ) examining the quality of supervisory relationships between clinicians and their supervisors;\n\n\nBuilt interpretable machine learning models using R to forecast clinician workload from EHR data, with planned integration into an operational dashboard system.\nDesigned and built an internal Retrieval-Augmented Generation (RAG) system to enable intelligent querying of the agency’s policy documentation, reducing time-to-answer for staff policy questions."
-  },
-  {
-    "objectID": "index.html#graduate-researcher",
-    "href": "index.html#graduate-researcher",
-    "title": "Shauna Heron",
-    "section": "",
-    "text": "Laurentian University — Sudbury, ON | 2023–2026 (expected)\n\nSupervisor: Dr. Michael Emond | Co-supervisor: Dr. Passi, Bharti School of Engineering(Pending defense)\n\nDeveloped longitudinal feature-engineering pipeline from large-scale EHR data to model client-related clinician workload, directly parallel to production work at Compass.\nBuilt and evaluated interpretable ML models using SHAP-based explanation, with a focus on fairness and operational validity for clinical service settings.\n\nSupervisor: Dr. M. C. Lau, Laurentian Intelligent Mobile Robotics Lab\n\nDesigned and implemented a fully-autonomous affect-adaptive HRI system on the Misty-II robotic platform; conducted experimental pilot study on trust and dialogue policy in human–robot collaboration.\nPublished preprint (arXiv:2603.00154); paper under peer review.\n\nLaurentian University — 2023–2025\n\nSupported undergraduate instruction in Research Methods, Statistics, and Scientific Analysis.\nDesigned and facilitated a class research project introducing students to reproducible data workflows in R."
-  },
-  {
-    "objectID": "index.html#summary",
-    "href": "index.html#summary",
-    "title": "Shauna Heron BSc, Graduate Candidate",
-    "section": "",
-    "text": "I am a healthcare-focused data scientist and R specialist with hands-on experience building production analytics systems for a mental health organization. Deep expertise in wrangling large, complex electronic health record datasets; developing predictive models; and delivering reproducible reporting workflows that drive clinical decision-making. Graduate training in experimental psychology and machine learning provides both the statistical depth and the domain literacy to work effectively at the intersection of data science and clinical practice.\nHealth Data Scientist · R Specialist · Clinical Analytics # Core Skills\nPrimary: R (tidyverse, tidymodels, Quarto, ggplot2, lme4)Secondary: Python (scikit-learn, Pandas, PyTorch, TensorFlow, Hugging Face, spaCy, Ollama, LangChain)Statistics & Modelling: Generalized linear and mixed models; Bayesian hierarchical models; supervised and unsupervised machine learning; SHAP-based model interpretabilityData: Electronic health record (EHR) analytics; longitudinal data construction; feature engineering; cohort definition; SQL/SQLiteReporting & Workflow: Quarto; Shiny; reproducible PDF and HTML reports; Power BIApplied AI: Retrieval-augmented generation (RAG); LLM integration; vector databases (ChromaDB); Robotics platformsTools: Positron, VS Code, Git, NeoVIM, R Studio, JupyterOS: Linux/Unix, macOS, Windows"
-  },
-  {
-    "objectID": "index.html#core-skills",
-    "href": "index.html#core-skills",
-    "title": "Shauna Heron",
-    "section": "",
-    "text": "Primary: R (tidyverse, tidymodels, Quarto, ggplot2, lme4)\nSecondary: Python (scikit-learn, Pandas, PyTorch, TensorFlow, Hugging Face, spaCy, Ollama, LangChain)\nStatistics & Modelling: Generalized linear and mixed models; Bayesian hierarchical models; supervised and unsupervised machine learning; SHAP-based model interpretability\nData: Electronic health record (EHR) analytics; longitudinal data construction; feature engineering; cohort definition; SQL/SQLite\nReporting & Workflow: Quarto; Shiny; reproducible PDF and HTML reports; Power BI\nApplied AI: Retrieval-augmented generation (RAG); LLM integration; vector databases (ChromaDB); Robotics platforms\nTools: Positron, VS Code, Git, NeoVIM, R Studio, Jupyter\nOS: Linux/Unix, macOS, Windows"
-  },
-  {
-    "objectID": "index.html#professional-experience",
-    "href": "index.html#professional-experience",
-    "title": "Shauna Heron",
-    "section": "",
-    "text": "Senior Data Analyst - Office of Systems PerformanceCompass Child & Youth Mental Health — Sudbury, ON | 2023–Present\nSole data analyst for a 100+ staff mental health agency serving thousands of clients annually, with programs spanning counselling and therapy, walk-in services, and supervised access.\n\nLead all analytical work on a longitudinal EHR dataset spanning 2013 to present and covering thousands of clients per year — including data extraction, cleaning, linkage, and feature engineering.\nCollaborate with clinical teams and management to translate complex analytical outputs into accessible, actionable insights.\nDesign and maintain reproducible Quarto-based reporting workflows producing weekly, monthly, and quarterly operational and clinical reports used daily by leadership and program managers.\nDeliver ad hoc analysis and data briefings directly to clinical and executive leadership to support service planning, resource allocation, and performance improvement.\nResearched and implemented two validated organizational health instruments for ongoing (yearly) monitoring of workplace culture and performance. Yearly results are analyzed and compared to prior years; findings and recommendations are presented to organizational leadership.\n\nThe SCORE Survey (Safety, Communication, Operational Reliability, and Engagement) designed to evaluate work environments in healthcare, providing actionable insights for clinical teams on topics like teamwork, safety climate, burnout, and emotional exhaustion.\n\nSupervisory Relationship Questionnaire (SRQ) examining the quality of supervisory relationships between clinicians and their supervisors;\n\n\nBuilt interpretable machine learning models using R to forecast clinician workload from EHR data, with planned integration into an operational dashboard system.\nDesigned and built an internal Retrieval-Augmented Generation (RAG) system to enable intelligent querying of the agency’s policy documentation, reducing time-to-answer for staff policy questions."
-  },
-  {
-    "objectID": "posts/paper-title/index.html",
-    "href": "posts/paper-title/index.html",
-    "title": "Trust in Autonomous Human-Robot Collaboration: Effects of Responsive Interaction Policies",
-    "section": "",
-    "text": "arXiv\n\n\nTrust plays a central role in human–robot collaboration, yet its formation is rarely examined under the constraints of fully autonomous interaction. This pilot study investigated how interaction policy influences trust during in-person collaboration with a social robot operating without Wizard-of-Oz control or scripted repair. Participants completed a multi-stage collaborative task with a mobile robot that autonomously managed spoken-language dialogue, affect inference, and task progression. Two interaction policies were compared: a responsive policy, in which the robot proactively adapted its dialogue and assistance based on inferred interaction state, and a neutral, reactive policy, in which the robot provided only direct, task-relevant responses when prompted. Responsive interaction was associated with significantly higher post-interaction trust under viable communication conditions, despite no reliable differences in overall task accuracy. Sensitivity analyses indicated that affective and experiential components of trust were more sensitive to communication breakdown than evaluative judgments of reliability, and that as language-mediated interaction degraded, the trust advantage associated with responsiveness attenuated and ratings became less clearly interpretable as calibrated evaluations of collaborative competence. These findings suggest that trust in autonomous human–robot interaction emerges from process-level interaction dynamics and operates within constraints imposed by communication viability, highlighting the importance of evaluating trust under real autonomy conditions when designing interactive robotic systems.\n\n\n\nMisty-II"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Shauna Heron",
-    "section": "",
-    "text": "Hi! I am an experimental psychology grad student with hands-on experience building production analytics systems for a large mental health organization. I have deep expertise in wrangling large, complex electronic health record datasets with R and Python; developing predictive models and delivering reproducible reporting workflows that support clinical decision-making. Graduate training in experimental psychology and machine learning provides both the statistical depth and the domain literacy to work effectively at the intersection of data science and clinical practice."
-  },
-  {
-    "objectID": "about.html#research",
-    "href": "about.html#research",
-    "title": "About Shauna Heron",
-    "section": "Research",
-    "text": "Research"
-  },
-  {
-    "objectID": "about.html#education-and-credentials",
-    "href": "about.html#education-and-credentials",
-    "title": "About Shauna Heron",
-    "section": "Education and Credentials",
-    "text": "Education and Credentials"
-  },
-  {
-    "objectID": "about.html#personal",
-    "href": "about.html#personal",
-    "title": "About Shauna Heron",
-    "section": "Personal",
-    "text": "Personal"
-  },
-  {
-    "objectID": "about.html#contact",
-    "href": "about.html#contact",
-    "title": "About Shauna Heron",
-    "section": "Contact",
-    "text": "Contact"
-  },
-  {
-    "objectID": "about.html#senior-data-analyst---office-of-systems-performance",
-    "href": "about.html#senior-data-analyst---office-of-systems-performance",
-    "title": "About Shauna Heron",
-    "section": "Senior Data Analyst - Office of Systems Performance",
-    "text": "Senior Data Analyst - Office of Systems Performance\nCompass Child & Youth Mental Health — Sudbury, ON | 2023–Present\nSole data analyst for a 100+ staff mental health agency serving thousands of clients annually, with programs spanning counselling and therapy, walk-in services, and supervised access.\n\nLead all analytical work on a longitudinal EHR dataset spanning 2013 to present and covering thousands of clients per year — including data extraction, cleaning, linkage, and feature engineering.\nCollaborate with clinical teams and management to translate complex analytical outputs into accessible, actionable insights.\nDesign and maintain reproducible Quarto-based reporting workflows producing weekly, monthly, and quarterly operational and clinical reports used daily by leadership and program managers.\nDeliver ad hoc analysis and data briefings directly to clinical and executive leadership to support service planning, resource allocation, and performance improvement.\nResearched and implemented two validated organizational health instruments for ongoing (yearly) monitoring of workplace culture and performance. Yearly results are analyzed and compared to prior years; findings and recommendations are presented to organizational leadership.\n\nThe SCORE Survey (Safety, Communication, Operational Reliability, and Engagement) designed to evaluate work environments in healthcare, providing actionable insights for clinical teams on topics like teamwork, safety climate, burnout, and emotional exhaustion.\nSupervisory Relationship Questionnaire (SRQ) examining the quality of supervisory relationships between clinicians and their supervisors;\n\nBuilt interpretable machine learning models using R to forecast clinician workload from EHR data, with planned integration into an operational dashboard system.\nDesigned and built an internal Retrieval-Augmented Generation (RAG) system to enable intelligent querying of the agency’s policy documentation, reducing time-to-answer for staff policy questions."
-  },
-  {
-    "objectID": "about.html#graduate-researcher",
-    "href": "about.html#graduate-researcher",
-    "title": "About Shauna Heron",
-    "section": "Graduate Researcher",
-    "text": "Graduate Researcher\nLaurentian University — Sudbury, ON | 2023–2026 (expected)\n\nMA Thesis — Machine Learning for Clinical Workload Modelling\nSupervisor: Dr. Michael Emond | Co-supervisor: Dr. Passi, Bharti School of Engineering\n(Pending defense)\n\nDeveloped longitudinal feature-engineering pipeline from large-scale EHR data to model client-related clinician workload, directly parallel to production work at Compass.\nBuilt and evaluated interpretable ML models using SHAP-based explanation, with a focus on fairness and operational validity for clinical service settings.\n\n\n\nResearch Practicum — Autonomous Human–Robot Interaction\nSupervisor: Dr. M. C. Lau, Laurentian Intelligent Mobile Robotics Lab\n\nDesigned and implemented a fully-autonomous affect-adaptive HRI system on the Misty-II robotic platform; conducted experimental pilot study on trust and dialogue policy in human–robot collaboration.\nPublished preprint (arXiv:2603.00154); paper under peer review.\n\n\n\nGraduate Teaching Assistant\nLaurentian University — 2023–2025\n\nSupported undergraduate instruction in Research Methods, Statistics, and Scientific Analysis.\nDesigned and facilitated a class research project introducing students to reproducible data workflows in R."
-  },
-  {
-    "objectID": "about.html#summary",
-    "href": "about.html#summary",
-    "title": "About Shauna Heron",
-    "section": "",
-    "text": "Hi! I am an experimental psychology grad student with hands-on experience building production analytics systems for a large mental health organization. I have deep expertise in wrangling large, complex electronic health record datasets with R and Python; developing predictive models and delivering reproducible reporting workflows that support clinical decision-making. Graduate training in experimental psychology and machine learning provides both the statistical depth and the domain literacy to work effectively at the intersection of data science and clinical practice."
-  },
-  {
-    "objectID": "about.html#core-skills",
-    "href": "about.html#core-skills",
-    "title": "About Shauna Heron",
-    "section": "Core Skills",
-    "text": "Core Skills\nPrimary: R (tidyverse, tidymodels, Quarto, ggplot2, lme4)\nSecondary: Python (scikit-learn, Pandas, PyTorch, TensorFlow, Hugging Face, spaCy, Ollama, LangChain)\nStatistics & Modelling: Generalized linear and mixed models; Bayesian hierarchical models; supervised and unsupervised machine learning; SHAP-based model interpretability\nData: Electronic health record (EHR) analytics; longitudinal data construction; feature engineering; cohort definition; SQL/SQLite\nReporting & Workflow: Quarto; Shiny; reproducible PDF and HTML reports; Power BI\nApplied AI: Retrieval-augmented generation (RAG); LLM integration; vector databases (ChromaDB); Robotics platforms\nTools: Positron, VS Code, Git, NeoVIM, R Studio, Jupyter\nOS: Linux/Unix, macOS, Windows"
-  },
-  {
-    "objectID": "about.html#professional-experience",
-    "href": "about.html#professional-experience",
-    "title": "About Shauna Heron",
-    "section": "Professional Experience",
-    "text": "Professional Experience\n\nData Analyst - Office of Systems Performance\nCompass Child & Youth Mental Health — Sudbury, ON | 2023–Present\nSole data analyst for a 100+ staff mental health agency serving thousands of clients annually, with programs spanning counselling and therapy, walk-in services, and supervised access.\n\nLead all analytical work on a longitudinal EHR dataset spanning 2013 to present and covering thousands of clients per year — including data extraction, cleaning, linkage, and feature engineering.\nCollaborate with clinical teams and management to translate complex analytical outputs into accessible, actionable insights.\nDesign and maintain reproducible Quarto-based reporting workflows producing weekly, monthly, and quarterly operational and clinical reports used daily by leadership and program managers.\nDeliver ad hoc analysis and data briefings directly to clinical and executive leadership to support service planning, resource allocation, and performance improvement.\nResearched and implemented two validated organizational health instruments for ongoing (yearly) monitoring of workplace culture and performance. Yearly results are analyzed and compared to prior years; findings and recommendations are presented to organizational leadership.\nBuilt interpretable machine learning models using R to forecast clinician workload from EHR data, with planned integration into an operational dashboard system.\nDesigned and built an internal Retrieval-Augmented Generation (RAG) system to enable intelligent querying of the agency’s policy documentation, reducing time-to-answer for staff policy questions."
-  },
-  {
-    "objectID": "about.html#research-academic-experience",
-    "href": "about.html#research-academic-experience",
-    "title": "About Shauna Heron",
-    "section": "Research & Academic Experience",
-    "text": "Research & Academic Experience\n\nGraduate Researcher\nLaurentian University — Sudbury, ON | 2023–2026 (Pending defense)\nMA Thesis: Machine Learning for Clinical Workload Modelling\nSupervisor: Dr. Michael Emond | Co-supervisor: Dr. Passi, Bharti School of Engineering\n\n\nDeveloped longitudinal feature-engineering pipeline from large-scale EHR data to model client-related clinician workload, directly parallel to production work at Compass.\nBuilt and evaluated interpretable ML models using SHAP-based explanation, with a focus on fairness and operational validity for clinical service settings.\n\nResearch Practicum — Autonomous Human–Robot Interaction\nSupervisor: Dr. M. C. Lau, Laurentian Intelligent Mobile Robotics Lab\n\nDesigned and implemented a fully-autonomous affect-adaptive HRI system on the Misty-II robotic platform; conducted experimental pilot study on trust and dialogue policy in human–robot collaboration.\nPublished preprint (arXiv:2603.00154); paper under peer review.\n\n\n\nGraduate Teaching Assistant\nLaurentian University — 2023–2025\n\nSupported undergraduate instruction in Research Methods, Statistics, and Scientific Analysis.\nDesigned and facilitated a class research project introducing students to reproducible data workflows in R."
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About Shauna Heron",
-    "section": "Education",
-    "text": "Education\nMA, Experimental Psychology (Computational Science focus)\nThesis submitted, pending oral defense\nLaurentian University, 2023–2026 (expected)\n\nSpecial permission granted to complete graduate-level Computational Science coursework (AI & ML, Data Mining).\nAwards: Ontario Graduate Research Award (2025); IAMGOLD President’s Innovation Fund (2025)\n\nBSc Honours, Applied Science / Psychology Specialization — Magna Cum Laude\nLaurentian University, 2019–2022\n\n\nAwards: Canadian Psychological Association Academic Excellence Award, Best Undergraduate Thesis (2022)"
+    "text": "An undergrad scientific methods and analysis II assignment I designed as a TA: website"
   }
 ]
