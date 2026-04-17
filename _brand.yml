@@ -4,18 +4,23 @@ meta:
 
 #logo: logos/icon/brand-yml-icon-color.svg
 
-# color:
-#   palette:
-#     black: "#1A1A1A"
-#     white: "#F9F9F9"
-#     orange: "#FF6F20"
-#     pink: "#FF3D7F"
-#   foreground: black
-#   background: white
-#   primary: orange
-#   danger: pink
+color:
+  palette:
+    black: "#1A1A1A"
+    white: "#F9F9F9"
+    orange: "#FF6F20"
+    pink: "#FF3D7F"
+  foreground: black
+  background: "#f2f5f4"
+  primary: "#e8efedff"
+  danger: pink
+  secondary: "#707073"
+  tertiary: "#C2C2C4"
 
 typography:
+  link:
+    color: "#0066cc"        # Sets the default color for links
+    decoration: underline   # Optional: underline, none, etc.
   fonts:
     - family: Source Sans Pro
       source: google
@@ -35,3 +40,7 @@ typography:
    # size: 1rem
     weight: light
   monospace: Fira Code
+
+defaults:
+  bootstrap:
+    link-color: red
