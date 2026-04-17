@@ -46,7 +46,7 @@
     "href": "posts.html",
     "title": "What’s New & Updated",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nTrust in Autonomous Human-Robot Collaboration: Effects of Responsive Interaction Policies\n\n\nPreprint\n\n\n\npaper\n\n\n\nResponsive robots are more trusted than reactive robots, but only when communication is viable\n\n\n\n\n\nMar 13, 2026\n\n\nShauna Heron, Meng Cheng Lau\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nTrust in Autonomous Human-Robot Collaboration: Effects of Responsive Interaction Policies\n\n\nPreprint\n\n\n\npaper\n\n\n\nResponsive robots are more trusted than reactive robots, but only when communication is viable\n\n\n\n\n\nMar 13, 2026\n\n\nShauna Heron, Meng Cheng Lau\n\n\n\n\n\n\n\n\n\n\n\n\nBuilding a Research Poster in Quarto\n\n\nAn R Case Study\n\n\n\npaper\n\n\n\nSome stuff\n\n\n\n\n\nMar 13, 2026\n\n\nShauna Heron\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -187,5 +187,12 @@
     "title": "Shauna Heron",
     "section": "",
     "text": "Published preprint in autonomous human–robot interaction (affect-adaptive dialogue systems on the Misty-II platform; under peer review). arxiv.org/abs/2603.00154"
+  },
+  {
+    "objectID": "posts/misty-poster/index.html",
+    "href": "posts/misty-poster/index.html",
+    "title": "Building a Research Poster in Quarto",
+    "section": "",
+    "text": "Adding a how to here!"
   }
 ]

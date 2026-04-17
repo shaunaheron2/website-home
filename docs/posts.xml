@@ -69,7 +69,27 @@ Policies.”</span> <em>PREPRINT</em>, accepted, March 13. <a href="https://doi.
   <category>paper</category>
   <guid>https://github.com/shaunaheron2/website-home/posts/paper-title/</guid>
   <pubDate>Fri, 13 Mar 2026 04:00:00 GMT</pubDate>
-  <media:content url="https://github.com/shaunaheron2/website-home/posts/paper-title/misty_lineart.png" medium="image" type="image/png" height="132" width="144"/>
+  <media:content url="https://github.com/shaunaheron2/website-home/posts/paper-title/misty_pullback_lineart_final_hand.png" medium="image" type="image/png" height="108" width="144"/>
+</item>
+<item>
+  <title>Building a Research Poster in Quarto</title>
+  <dc:creator>Shauna Heron</dc:creator>
+  <link>https://github.com/shaunaheron2/website-home/posts/misty-poster/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Adding a how to here!</p>
+<p><img src="https://github.com/shaunaheron2/website-home/posts/misty-poster/images/paste-1.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>paper</category>
+  <guid>https://github.com/shaunaheron2/website-home/posts/misty-poster/</guid>
+  <pubDate>Fri, 13 Mar 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://github.com/shaunaheron2/website-home/posts/misty-poster/images/paste-1.png" medium="image" type="image/png" height="95" width="144"/>
 </item>
 <item>
   <title>Quarto Academic Website Examples and Tips</title>

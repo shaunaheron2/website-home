@@ -1,0 +1,15 @@
+---
+title: "Building a Research Poster in Quarto"
+description: "Some stuff"
+subtitle: "An R Case Study"
+author: 
+  - name: Shauna Heron
+date: "2026-03-13"
+categories: [paper]
+image: "images/paste-1.png"
+
+---
+
+Adding a how to here!
+
+![](images/paste-1.png)

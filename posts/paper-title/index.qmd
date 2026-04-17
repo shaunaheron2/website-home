@@ -7,7 +7,7 @@ author:
   - name: Meng Cheng Lau
 date: "2026-03-13"
 categories: [paper]
-image: "misty_lineart.png"
+image: "misty_pullback_lineart_final_hand.png"
 citation:
   type: article-journal
   container-title: "PREPRINT"

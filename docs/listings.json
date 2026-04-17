@@ -6,12 +6,14 @@
   {
     "listing": "/posts.html",
     "items": [
-      "/posts/paper-title/index.html"
+      "/posts/paper-title/index.html",
+      "/posts/misty-poster/index.html"
     ]
   },
   {
     "listing": "/index.html",
     "items": [
+      "/posts/misty-poster/index.html",
       "/posts/paper-title/index.html"
     ]
   },
