@@ -11,7 +11,7 @@ color:
     orange: "#FF6F20"
     pink: "#FF3D7F"
   foreground: black
-  background: "#f2f5f4"
+  background: "white"
   primary: "#e8efedff"
   danger: pink
   secondary: "#707073"
