@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/shaunaheron2/website-home/about.html</loc>
-    <lastmod>2026-04-17T16:28:02.264Z</lastmod>
+    <lastmod>2026-04-17T17:50:38.322Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/shaunaheron2/website-home/publications.html</loc>
@@ -18,7 +18,7 @@
   </url>
   <url>
     <loc>https://github.com/shaunaheron2/website-home/index.html</loc>
-    <lastmod>2026-04-17T16:35:15.384Z</lastmod>
+    <lastmod>2026-04-17T17:48:43.209Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/shaunaheron2/website-home/contact.html</loc>
@@ -39,5 +39,9 @@
   <url>
     <loc>https://github.com/shaunaheron2/website-home/teaching.html</loc>
     <lastmod>2026-04-15T20:08:27.139Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/shaunaheron2/website-home/final-sheron-cv.html</loc>
+    <lastmod>2026-04-17T17:48:08.350Z</lastmod>
   </url>
 </urlset>

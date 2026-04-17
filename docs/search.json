@@ -4,28 +4,28 @@
     "href": "about.html",
     "title": "About Shauna Heron",
     "section": "",
-    "text": "Finishing my master’s thesis — a machine-learning analysis of clinician workload in community mental health care — and preparing for my oral defense.\nDeciding between starting a PhD in engineering science (robotics & automation, at Laurentian) or moving into an industry data science role 🤔"
+    "text": "My favourite kind of problem is messy. Give me a giant health record dataset with 13 possible joins, a pile of wonky Excel files, a robot that only behaves on a strict set of rules when you need it to do more, or a question a clinical team has been asking for years — I want to figure out which code or tools will turn that mess into something actually useful.\nI came to research the long way around: early-web work in the Netherlands, a stint as a youth officer in secure custody, a decade running an award-winning wedding-photography business. Each was its own version of the same passion — learning a new system and paying close attention to how people actually behaved inside it. That’s still what my research is about, whether the system is a machine-learning model running on clinical data or a small robot trying to hold a conversation."
   },
   {
     "objectID": "about.html#what-im-working-on-right-now",
     "href": "about.html#what-im-working-on-right-now",
     "title": "About Shauna Heron",
-    "section": "",
-    "text": "Finishing my master’s thesis — a machine-learning analysis of clinician workload in community mental health care — and preparing for my oral defense.\nDeciding between starting a PhD in engineering science (robotics & automation, at Laurentian) or moving into an industry data science role 🤔"
+    "section": "What I’m working on right now",
+    "text": "What I’m working on right now\n\nFinishing my master’s thesis — a machine-learning analysis of clinician workload in community mental health care — and preparing for my oral defense."
   },
   {
     "objectID": "about.html#what-im-curious-about",
     "href": "about.html#what-im-curious-about",
     "title": "About Shauna Heron",
     "section": "What I’m curious about",
-    "text": "What I’m curious about\n\nApplications of data science in public and population health–especially mental health, and especially in community settings. I want to know how we can use data to make care more effective, efficient, and equitable, without adding to the burden on clinicians or patients.\nWhen is a machine-learning model the right tool for a clinical or operational problem, and — more often — when is it the wrong one? I’m interested in interpretable models, fairness audits, and being honest about what a model can’t do."
+    "text": "What I’m curious about\n\nApplications of data science in public and population health–especially mental health, and especially in community settings. I want to know how we can use data to make care more effective, efficient, and equitable, without adding to the burden on clinicians or patients.\nWhen is a machine-learning model the right tool for a clinical or operational problem, and — more often — when is it the wrong one? I’m interested in interpretable models, fairness audits, and being honest about what a model can’t do.\nTBH what am I NOT curious about?"
   },
   {
     "objectID": "about.html#a-bit-of-the-longer-story",
     "href": "about.html#a-bit-of-the-longer-story",
     "title": "About Shauna Heron",
-    "section": "A bit of the longer story",
-    "text": "A bit of the longer story\nMy favourite kind of problem is messy. Give me a giant health record dataset with 13 possible joins, a pile of wonky Excel files, a robot that only behaves on a strict set of rules, or a question a clinical team has been asking for years — I want to figure out which code or tools will turn that mess into something actually useful.\nI came to research the long way around: early-web work in the Netherlands, a stint as a youth officer in secure custody, a decade running an award-winning wedding-photography business. Each was its own version of the same passion — learning a new system fast, and paying close attention to how people actually behaved inside it. That’s still what my research is about, whether the system is a machine-learning model running on clinical data or a small robot trying to hold a conversation."
+    "section": "",
+    "text": "My favourite kind of problem is messy. Give me a giant health record dataset with 13 possible joins, a pile of wonky Excel files, a robot that only behaves on a strict set of rules when you need it to do more, or a question a clinical team has been asking for years — I want to figure out which code or tools will turn that mess into something actually useful.\nI came to research the long way around: early-web work in the Netherlands, a stint as a youth officer in secure custody, a decade running an award-winning wedding-photography business. Each was its own version of the same passion — learning a new system and paying close attention to how people actually behaved inside it. That’s still what my research is about, whether the system is a machine-learning model running on clinical data or a small robot trying to hold a conversation."
   },
   {
     "objectID": "publications.html#selected-work",
@@ -138,5 +138,54 @@
     "title": "Teaching",
     "section": "",
     "text": "An undergrad scientific methods and analysis II assignment I designed as a TA: website"
+  },
+  {
+    "objectID": "final-sheron-cv.html",
+    "href": "final-sheron-cv.html",
+    "title": "Shauna Heron",
+    "section": "",
+    "text": "Data Scientist · Clinical & Health Analytics · R and Python\nSudbury, ON · Remote only\nsheron@laurentian.ca · linkedin · personal website · github\n\n\nData scientist with five years of applied experience turning messy, real-world data into production-quality analytics. Currently the sole data lead for a community mental health agency, where I build predictive models, reproducible reports, and interpretable machine-learning workflows that clinicians and executives rely on daily. Graduate training in experimental psychology and machine learning underpins the statistical depth of the work. I look for roles where the problem is genuinely hard, the data is genuinely messy, and the work matters.\n\n\n\nLanguages: R (daily driver), Python, SQL, Bash\nR ecosystem: tidyverse, tidymodels, ggplot2, lme4, Shiny, Quarto\nPython ecosystem: pandas, scikit-learn, PyTorch, Hugging Face, spaCy, LangChain\nStatistics & modelling: Generalized linear and mixed-effects models; Bayesian hierarchical models; supervised and unsupervised machine learning; model interpretability (SHAP); fairness auditing\nData: Longitudinal electronic health record (EHR) analytics; feature engineering; cohort construction; SQL/SQLite\nReporting & delivery: Quarto (HTML, PDF, DOCX); Shiny dashboards; Power BI; Git-based reproducible workflows\nApplied AI: Retrieval-augmented generation (RAG); local LLM integration (Ollama); vector databases (ChromaDB)\nTools & OS: Positron, RStudio, VS Code, Jupyter, Neovim · Linux, macOS, Windows\n\n\n\n\n\nCompass Child & Youth Mental Health, Sudbury, ON · 2023–Present\nSole data analyst for a mental health agency of 100+ staff serving thousands of clients annually across counselling, walk-in, and supervised-access programs.\n\nOwn the full analytics pipeline for a longitudinal EHR dataset spanning 2013 to present — extraction, cleaning, linkage, feature engineering, and modelling — in R and Python.\nBuilt and maintain reproducible Quarto-based reporting that produces weekly, monthly, and quarterly reports used by leadership, program managers, and clinical teams.\nDeveloped interpretable machine-learning models in R to forecast clinician workload from EHR data; operational dashboard integration in progress.\nDesigned and deployed an internal retrieval-augmented-generation (RAG) system over agency policy documents, reducing time-to-answer for staff policy questions.\nImplemented two validated organizational-health instruments for annual workplace monitoring; analyze year-over-year results and present findings to executive leadership.\nTranslate complex analytical findings for non-technical audiences — clinicians, program managers, and executives — through briefings, reports, and ad-hoc analysis.\n\n\n\n\nOver a decade of earlier technical work including web development, front-end and UI work, and technical systems support across multiple agencies and in-house teams.\n\n\n\n\nMA, Experimental Psychology (Computational Science focus) — Laurentian University, 2023–2026 (thesis submitted, pending oral defense)\nGranted special permission to complete graduate-level Computational Science coursework (Artificial Intelligence & Machine Learning, Data Mining).\nThesis: Beyond Counting Clients — Developing a Fair Measure of Clinical Workload with Machine Learning. Applied interpretable ML to longitudinal EHR data from a community mental health agency; used multilevel variance decomposition to quantify how much workload is actually predictable from client-level intake data (answer: less than most complexity-weighted caseload tools assume). Supervisors: Dr. Michael Emond, Dr. Kalpdrum Passi.\nBSc Honours, Applied Science / Psychology Specialization — Laurentian University, 2019–2022 Magna Cum Laude.\nAwards: Ontario Graduate Scholarship (2025); IAMGOLD President’s Innovation Fund (2025).\n\n\n\nYouth Hub Visit Tracking System (deployment Feb 2026) — Designed a QR-based check-in and analytics system backed by a relational SQLite database, for longitudinal tracking of youth program utilization at a community hub.\nPolicy Document RAG Assistant — Production RAG system over agency policy documents; local LLM inference, vector store, retrieval evaluation.\n\n\n\nPublished preprint in autonomous human–robot interaction (affect-adaptive dialogue systems on the Misty-II platform; under peer review). arxiv.org/abs/2603.00154"
+  },
+  {
+    "objectID": "final-sheron-cv.html#summary",
+    "href": "final-sheron-cv.html#summary",
+    "title": "Shauna Heron",
+    "section": "",
+    "text": "Data scientist with five years of applied experience turning messy, real-world data into production-quality analytics. Currently the sole data lead for a community mental health agency, where I build predictive models, reproducible reports, and interpretable machine-learning workflows that clinicians and executives rely on daily. Graduate training in experimental psychology and machine learning underpins the statistical depth of the work. I look for roles where the problem is genuinely hard, the data is genuinely messy, and the work matters."
+  },
+  {
+    "objectID": "final-sheron-cv.html#technical-skills",
+    "href": "final-sheron-cv.html#technical-skills",
+    "title": "Shauna Heron",
+    "section": "",
+    "text": "Languages: R (daily driver), Python, SQL, Bash\nR ecosystem: tidyverse, tidymodels, ggplot2, lme4, Shiny, Quarto\nPython ecosystem: pandas, scikit-learn, PyTorch, Hugging Face, spaCy, LangChain\nStatistics & modelling: Generalized linear and mixed-effects models; Bayesian hierarchical models; supervised and unsupervised machine learning; model interpretability (SHAP); fairness auditing\nData: Longitudinal electronic health record (EHR) analytics; feature engineering; cohort construction; SQL/SQLite\nReporting & delivery: Quarto (HTML, PDF, DOCX); Shiny dashboards; Power BI; Git-based reproducible workflows\nApplied AI: Retrieval-augmented generation (RAG); local LLM integration (Ollama); vector databases (ChromaDB)\nTools & OS: Positron, RStudio, VS Code, Jupyter, Neovim · Linux, macOS, Windows"
+  },
+  {
+    "objectID": "final-sheron-cv.html#professional-experience",
+    "href": "final-sheron-cv.html#professional-experience",
+    "title": "Shauna Heron",
+    "section": "",
+    "text": "Compass Child & Youth Mental Health, Sudbury, ON · 2023–Present\nSole data analyst for a mental health agency of 100+ staff serving thousands of clients annually across counselling, walk-in, and supervised-access programs.\n\nOwn the full analytics pipeline for a longitudinal EHR dataset spanning 2013 to present — extraction, cleaning, linkage, feature engineering, and modelling — in R and Python.\nBuilt and maintain reproducible Quarto-based reporting that produces weekly, monthly, and quarterly reports used by leadership, program managers, and clinical teams.\nDeveloped interpretable machine-learning models in R to forecast clinician workload from EHR data; operational dashboard integration in progress.\nDesigned and deployed an internal retrieval-augmented-generation (RAG) system over agency policy documents, reducing time-to-answer for staff policy questions.\nImplemented two validated organizational-health instruments for annual workplace monitoring; analyze year-over-year results and present findings to executive leadership.\nTranslate complex analytical findings for non-technical audiences — clinicians, program managers, and executives — through briefings, reports, and ad-hoc analysis.\n\n\n\n\nOver a decade of earlier technical work including web development, front-end and UI work, and technical systems support across multiple agencies and in-house teams."
+  },
+  {
+    "objectID": "final-sheron-cv.html#education",
+    "href": "final-sheron-cv.html#education",
+    "title": "Shauna Heron",
+    "section": "",
+    "text": "MA, Experimental Psychology (Computational Science focus) — Laurentian University, 2023–2026 (thesis submitted, pending oral defense)\nGranted special permission to complete graduate-level Computational Science coursework (Artificial Intelligence & Machine Learning, Data Mining).\nThesis: Beyond Counting Clients — Developing a Fair Measure of Clinical Workload with Machine Learning. Applied interpretable ML to longitudinal EHR data from a community mental health agency; used multilevel variance decomposition to quantify how much workload is actually predictable from client-level intake data (answer: less than most complexity-weighted caseload tools assume). Supervisors: Dr. Michael Emond, Dr. Kalpdrum Passi.\nBSc Honours, Applied Science / Psychology Specialization — Laurentian University, 2019–2022 Magna Cum Laude.\nAwards: Ontario Graduate Scholarship (2025); IAMGOLD President’s Innovation Fund (2025)."
+  },
+  {
+    "objectID": "final-sheron-cv.html#selected-projects",
+    "href": "final-sheron-cv.html#selected-projects",
+    "title": "Shauna Heron",
+    "section": "",
+    "text": "Youth Hub Visit Tracking System (deployment Feb 2026) — Designed a QR-based check-in and analytics system backed by a relational SQLite database, for longitudinal tracking of youth program utilization at a community hub.\nPolicy Document RAG Assistant — Production RAG system over agency policy documents; local LLM inference, vector store, retrieval evaluation."
+  },
+  {
+    "objectID": "final-sheron-cv.html#other",
+    "href": "final-sheron-cv.html#other",
+    "title": "Shauna Heron",
+    "section": "",
+    "text": "Published preprint in autonomous human–robot interaction (affect-adaptive dialogue systems on the Misty-II platform; under peer review). arxiv.org/abs/2603.00154"
   }
 ]

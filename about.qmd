@@ -6,6 +6,12 @@ title-block-banner: false
 ---
 
 
+## A bit of the longer story
+
+My favourite kind of problem is messy. Give me a giant health record dataset with 13 possible joins, a pile of wonky Excel files, a robot that only behaves on a strict set of rules when you need it to do more, or a question a clinical team has been asking for years — I want to figure out which code or tools will turn that mess into something actually useful. 
+
+I came to research the long way around: early-web work in the Netherlands, a stint as a youth officer in secure custody, a decade running an award-winning wedding-photography business. Each was its own version of the same passion — learning a new system and paying close attention to how people actually behaved inside it. That's still what my research is about, whether the system is a machine-learning model running on clinical data or a small robot trying to hold a conversation.
+
 ## What I'm working on right now
 
 - Finishing my master's thesis — a machine-learning analysis of clinician workload in community mental health care — and preparing for my oral defense.
@@ -15,10 +21,5 @@ title-block-banner: false
 
 - Applications of data science in public and population health--especially mental health, and especially in community settings. I want to know how we can use data to make care more effective, efficient, and equitable, without adding to the burden on clinicians or patients.
 - When is a machine-learning model the right tool for a clinical or operational problem, and — more often — when is it the wrong one? I'm interested in interpretable models, fairness audits, and being honest about what a model can't do.
+- TBH what am I NOT curious about?
 
-
-## A bit of the longer story
-
-My favourite kind of problem is messy. Give me a giant health record dataset with 13 possible joins, a pile of wonky Excel files, a robot that only behaves on a strict set of rules when you need it to do more, or a question a clinical team has been asking for years — I want to figure out which code or tools will turn that mess into something actually useful. 
-
-I came to research the long way around: early-web work in the Netherlands, a stint as a youth officer in secure custody, a decade running an award-winning wedding-photography business. Each was its own version of the same passion — learning a new system fast, and paying close attention to how people actually behaved inside it. That's still what my research is about, whether the system is a machine-learning model running on clinical data or a small robot trying to hold a conversation.
