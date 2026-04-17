@@ -1,6 +1,6 @@
 [
   {
-    "listing": "/projects.html",
+    "listing": "/pub-listing.html",
     "items": []
   },
   {
@@ -22,7 +22,7 @@
     "items": []
   },
   {
-    "listing": "/pub-listing.html",
+    "listing": "/projects.html",
     "items": []
   }
 ]

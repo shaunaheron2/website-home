@@ -1,52 +1,45 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Shauna Heron",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "My favourite kind of problem is messy. Give me a giant health record dataset with 13 possible joins, a pile of wonky Excel files, a robot that only behaves on a strict set of rules when you need it to do more, or a question a clinical team has been asking for years — I want to figure out which code or tools will turn that mess into something actually useful.\nI came to research the long way around: early-web work in the Netherlands, a stint as a youth officer in secure custody, a decade running an award-winning wedding-photography business. Each was its own version of the same passion — learning a new system and paying close attention to how people actually behaved inside it. That’s still what my research is about, whether the system is a machine-learning model running on clinical data or a small robot trying to hold a conversation."
+    "text": "An undergrad scientific methods and analysis II assignment I designed as a TA: website"
   },
   {
-    "objectID": "about.html#what-im-working-on-right-now",
-    "href": "about.html#what-im-working-on-right-now",
-    "title": "About Shauna Heron",
-    "section": "What I’m working on right now",
-    "text": "What I’m working on right now\n\nFinishing my master’s thesis — a machine-learning analysis of clinician workload in community mental health care — and preparing for my oral defense.\nRaising a teenager in the wilds of northern Ontario, which is a full-time job in itself."
-  },
-  {
-    "objectID": "about.html#what-im-curious-about",
-    "href": "about.html#what-im-curious-about",
-    "title": "About Shauna Heron",
-    "section": "What I’m curious about",
-    "text": "What I’m curious about\n\nApplications of data science in public and population health–especially mental health, and especially in community settings. I want to know how we can use data to make care more effective, efficient, and equitable, without adding to the burden on clinicians or patients.\nWhen is a machine-learning model the right tool for a clinical or operational problem, and — more often — when is it the wrong one? I’m interested in interpretable models, fairness audits, and being honest about what a model can’t do.\nHow do we design robots that people can actually work with? I want to understand how people form trust in autonomous systems, and how we can design those systems to be trustworthy in the real world."
-  },
-  {
-    "objectID": "about.html#a-bit-of-the-longer-story",
-    "href": "about.html#a-bit-of-the-longer-story",
-    "title": "About Shauna Heron",
+    "objectID": "pub-listing.html",
+    "href": "pub-listing.html",
+    "title": "Publications",
     "section": "",
-    "text": "My favourite kind of problem is messy. Give me a giant health record dataset with 13 possible joins, a pile of wonky Excel files, a robot that only behaves on a strict set of rules when you need it to do more, or a question a clinical team has been asking for years — I want to figure out which code or tools will turn that mess into something actually useful.\nI came to research the long way around: early-web work in the Netherlands, a stint as a youth officer in secure custody, a decade running an award-winning wedding-photography business. Each was its own version of the same passion — learning a new system and paying close attention to how people actually behaved inside it. That’s still what my research is about, whether the system is a machine-learning model running on clinical data or a small robot trying to hold a conversation."
+    "text": "Note: * corresponding author;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)"
   },
   {
-    "objectID": "publications.html#selected-work",
-    "href": "publications.html#selected-work",
+    "objectID": "pub-listing.html#selected-work",
+    "href": "pub-listing.html#selected-work",
     "title": "Publications",
     "section": "Selected Work",
-    "text": "Selected Work\nHeron, S., Lau, M.C., (2026). Trust in Autonomous Human-Robot Collaboration: Effects of Responsive Interaction Policies. [pdf] [code and data]"
+    "text": "Selected Work\n\n\n\nQuantifying the Cost Savings of Global Solar Photovoltaic Supply Chains Helveston, John, Gang He*, and Michael Davidson Oct 26, 2022\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMg=='); return false;\"&gt;2022&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('YXdhcmQ='); return false;\"&gt;award&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aG90LXBhcGVy'); return false;\"&gt;hot-paper&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3VwcGx5LWNoYWlu'); return false;\"&gt;supply-chain&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('dW5pdGVkLXN0YXRlcw=='); return false;\"&gt;united-states&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('Y2hpbmE='); return false;\"&gt;china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('Z2VybWFueQ=='); return false;\"&gt;germany&lt;/span&gt;\n\n\nHelveston, John, Gang He*, and Michael Davidson. 2022. Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains. Nature 612: 83-87. doi: 10.1038/s41586-022-05316-6.  \n\n\n Preprint  SharedIt  GitHub  Data  \n\n\n Award: IAMC2022 Best Poster Award\n\n\nCoverage: SBU News | GWU News | UCSD News | Nature Research Highlights | E&E News | Foreign Policy | GRID News | PV Magazine | dot.LA | pvbuzz | InnovateLongIsland | Mercom India | China News | Science and Technology Daily\n\n\nInvited presentation: Peking University | Tsinghua University | Harvard University (M.D.) | ITIF (J.H.) | Climate Change Economics Forum\n\n\n\n\nNo matching items\n\n\n\nRapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System He, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke* May 15, 2020\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMA=='); return false;\"&gt;2020&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cG93ZXItc3lzdGVt'); return false;\"&gt;power-system&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3dpdGNoLWNoaW5h'); return false;\"&gt;switch-china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('d2luZA=='); return false;\"&gt;wind&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3RvcmFnZQ=='); return false;\"&gt;storage&lt;/span&gt;\n\n\nHe, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke*. 2020. Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System. Nature Communications 11(1): 2486. doi: 10.1038/s41467-020-16184-x. \n\n\n PDF  GitHub  Supplemental  \n\n\nCoverage: SBU News | LBL News | Carbon Brief Headline | InsideClimateNews | E&E News/ClimateWire | Forbes | Nature News\n\n\nInvited presentation: Asia Pacific Energy Research Centre (APERC) Annual Conference 2020 | Beijing Institute of Technology | Dartmouth College | Harvard Kennedy School Growth Lab\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "pub-listing.html#peer-reviewed-journal-papers",
+    "href": "pub-listing.html#peer-reviewed-journal-papers",
+    "title": "Publications",
+    "section": "Peer-reviewed Journal Papers",
+    "text": "Peer-reviewed Journal Papers\n\n\n\nRapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System He, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke* May 15, 2020\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMA=='); return false;\"&gt;2020&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cG93ZXItc3lzdGVt'); return false;\"&gt;power-system&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3dpdGNoLWNoaW5h'); return false;\"&gt;switch-china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('d2luZA=='); return false;\"&gt;wind&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3RvcmFnZQ=='); return false;\"&gt;storage&lt;/span&gt;\n\n\nHe, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke*. 2020. Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System. Nature Communications 11(1): 2486. doi: 10.1038/s41467-020-16184-x. \n\n\n PDF  GitHub  Supplemental  \n\n\nCoverage: SBU News | LBL News | Carbon Brief Headline | InsideClimateNews | E&E News/ClimateWire | Forbes | Nature News\n\n\nInvited presentation: Asia Pacific Energy Research Centre (APERC) Annual Conference 2020 | Beijing Institute of Technology | Dartmouth College | Harvard Kennedy School Growth Lab\n\n\n\n\nNo matching items\n\nPublications – Shauna Heron Publications – Shauna Heron Publications – Shauna Heron Shauna Heron Hi I’m Shauna Hi I’m Shauna"
+  },
+  {
+    "objectID": "posts/misty-poster/index.html",
+    "href": "posts/misty-poster/index.html",
+    "title": "Building a Research Poster in Quarto",
     "section": "",
-    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Adding a how to here!"
   },
   {
     "objectID": "posts.html",
     "href": "posts.html",
     "title": "What’s New & Updated",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nTrust in Autonomous Human-Robot Collaboration: Effects of Responsive Interaction Policies\n\n\nPreprint\n\n\n\npaper\n\n\n\nResponsive robots are more trusted than reactive robots, but only when communication is viable\n\n\n\n\n\nMar 13, 2026\n\n\nShauna Heron, Meng Cheng Lau\n\n\n\n\n\n\n\n\n\n\n\n\nBuilding a Research Poster in Quarto\n\n\nAn R Case Study\n\n\n\ntutorial\n\n\n\nSome stuff\n\n\n\n\n\nMar 13, 2026\n\n\nShauna Heron\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nTrust in Autonomous Human-Robot Collaboration: Effects of Responsive Interaction Policies\n\n\nPreprint\n\n\n\npaper\n\n\n\nResponsive robots are more trusted than reactive robots, but only when communication is viable\n\n\n\n\n\nMar 13, 2026\n\n\nShauna Heron, Meng Cheng Lau\n\n\n\n\n\n\n\n\n\n\n\n\nBuilding a Research Poster in Quarto\n\n\nAn R Tutorial\n\n\n\ntutorial\n\n\n\nSome stuff\n\n\n\n\n\nMar 13, 2026\n\n\nShauna Heron\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -91,13 +84,6 @@
     "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2022-01\n\n\n2026-01\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024-01\n\n\n2025-01\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2023-01\n\n\n2024-01\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/paper-title/index.html",
-    "href": "posts/paper-title/index.html",
-    "title": "Trust in Autonomous Human-Robot Collaboration: Effects of Responsive Interaction Policies",
-    "section": "",
-    "text": "arXiv"
-  },
-  {
     "objectID": "posts/paper-title/index.html#abstract",
     "href": "posts/paper-title/index.html#abstract",
     "title": "Trust in Autonomous Human-Robot Collaboration: Effects of Responsive Interaction Policies",
@@ -112,87 +98,45 @@
     "text": "Links\nPublished paper\nResearch poster"
   },
   {
-    "objectID": "pub-listing.html",
-    "href": "pub-listing.html",
-    "title": "Publications",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "Note: * corresponding author;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)"
+    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "pub-listing.html#selected-work",
-    "href": "pub-listing.html#selected-work",
+    "objectID": "publications.html#selected-work",
+    "href": "publications.html#selected-work",
     "title": "Publications",
     "section": "Selected Work",
-    "text": "Selected Work\n\n\n\nQuantifying the Cost Savings of Global Solar Photovoltaic Supply Chains Helveston, John, Gang He*, and Michael Davidson Oct 26, 2022\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMg=='); return false;\"&gt;2022&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('YXdhcmQ='); return false;\"&gt;award&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aG90LXBhcGVy'); return false;\"&gt;hot-paper&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3VwcGx5LWNoYWlu'); return false;\"&gt;supply-chain&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('dW5pdGVkLXN0YXRlcw=='); return false;\"&gt;united-states&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('Y2hpbmE='); return false;\"&gt;china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('Z2VybWFueQ=='); return false;\"&gt;germany&lt;/span&gt;\n\n\nHelveston, John, Gang He*, and Michael Davidson. 2022. Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains. Nature 612: 83-87. doi: 10.1038/s41586-022-05316-6.  \n\n\n Preprint  SharedIt  GitHub  Data  \n\n\n Award: IAMC2022 Best Poster Award\n\n\nCoverage: SBU News | GWU News | UCSD News | Nature Research Highlights | E&E News | Foreign Policy | GRID News | PV Magazine | dot.LA | pvbuzz | InnovateLongIsland | Mercom India | China News | Science and Technology Daily\n\n\nInvited presentation: Peking University | Tsinghua University | Harvard University (M.D.) | ITIF (J.H.) | Climate Change Economics Forum\n\n\n\n\nNo matching items\n\n\n\nRapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System He, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke* May 15, 2020\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMA=='); return false;\"&gt;2020&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cG93ZXItc3lzdGVt'); return false;\"&gt;power-system&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3dpdGNoLWNoaW5h'); return false;\"&gt;switch-china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('d2luZA=='); return false;\"&gt;wind&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3RvcmFnZQ=='); return false;\"&gt;storage&lt;/span&gt;\n\n\nHe, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke*. 2020. Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System. Nature Communications 11(1): 2486. doi: 10.1038/s41467-020-16184-x. \n\n\n PDF  GitHub  Supplemental  \n\n\nCoverage: SBU News | LBL News | Carbon Brief Headline | InsideClimateNews | E&E News/ClimateWire | Forbes | Nature News\n\n\nInvited presentation: Asia Pacific Energy Research Centre (APERC) Annual Conference 2020 | Beijing Institute of Technology | Dartmouth College | Harvard Kennedy School Growth Lab\n\n\n\n\nNo matching items"
+    "text": "Selected Work\nHeron, S., Lau, M.C., (2026). Trust in Autonomous Human-Robot Collaboration: Effects of Responsive Interaction Policies. [pdf] [code and data]"
   },
   {
-    "objectID": "pub-listing.html#peer-reviewed-journal-papers",
-    "href": "pub-listing.html#peer-reviewed-journal-papers",
-    "title": "Publications",
-    "section": "Peer-reviewed Journal Papers",
-    "text": "Peer-reviewed Journal Papers\n\n\n\nRapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System He, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke* May 15, 2020\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyMA=='); return false;\"&gt;2020&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c2VsZWN0ZWQ='); return false;\"&gt;selected&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('aGlnaGx5LWNpdGVk'); return false;\"&gt;highly-cited&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('bmF0dXJlLXNlcmllcw=='); return false;\"&gt;nature-series&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cG93ZXItc3lzdGVt'); return false;\"&gt;power-system&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3dpdGNoLWNoaW5h'); return false;\"&gt;switch-china&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c29sYXI='); return false;\"&gt;solar&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('d2luZA=='); return false;\"&gt;wind&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('c3RvcmFnZQ=='); return false;\"&gt;storage&lt;/span&gt;\n\n\nHe, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke*. 2020. Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System. Nature Communications 11(1): 2486. doi: 10.1038/s41467-020-16184-x. \n\n\n PDF  GitHub  Supplemental  \n\n\nCoverage: SBU News | LBL News | Carbon Brief Headline | InsideClimateNews | E&E News/ClimateWire | Forbes | Nature News\n\n\nInvited presentation: Asia Pacific Energy Research Centre (APERC) Annual Conference 2020 | Beijing Institute of Technology | Dartmouth College | Harvard Kennedy School Growth Lab\n\n\n\n\nNo matching items\n\nPublications – Shauna Heron Publications – Shauna Heron Publications – Shauna Heron Shauna Heron Hi I’m Shauna Hi I’m Shauna"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Shauna Heron",
     "section": "",
-    "text": "An undergrad scientific methods and analysis II assignment I designed as a TA: website"
+    "text": "My favourite kind of problem is messy. Give me a giant health record dataset with 13 possible joins, a pile of wonky Excel files, a robot that only behaves on a strict set of rules when you need it to do more, or a question a clinical team has been asking for years — I want to figure out which code or tools will turn that mess into something actually useful.\nI came to research the long way around: early-web work in the Netherlands, a stint as a youth officer in secure custody, a decade running an award-winning wedding-photography business. Each was its own version of the same passion — learning a new system and paying close attention to how people actually behaved inside it. That’s still what my research is about, whether the system is a machine-learning model running on clinical data or a small robot trying to hold a conversation."
   },
   {
-    "objectID": "final-sheron-cv.html",
-    "href": "final-sheron-cv.html",
-    "title": "Shauna Heron",
+    "objectID": "about.html#a-bit-of-the-longer-story",
+    "href": "about.html#a-bit-of-the-longer-story",
+    "title": "About Shauna Heron",
     "section": "",
-    "text": "Data Scientist · Clinical & Health Analytics · R and Python\nSudbury, ON · Remote only\nsheron@laurentian.ca · linkedin · personal website · github\n\n\nData scientist with five years of applied experience turning messy, real-world data into production-quality analytics. Currently the sole data lead for a community mental health agency, where I build predictive models, reproducible reports, and interpretable machine-learning workflows that clinicians and executives rely on daily. Graduate training in experimental psychology and machine learning underpins the statistical depth of the work. I look for roles where the problem is genuinely hard, the data is genuinely messy, and the work matters.\n\n\n\nLanguages: R (daily driver), Python, SQL, Bash\nR ecosystem: tidyverse, tidymodels, ggplot2, lme4, Shiny, Quarto\nPython ecosystem: pandas, scikit-learn, PyTorch, Hugging Face, spaCy, LangChain\nStatistics & modelling: Generalized linear and mixed-effects models; Bayesian hierarchical models; supervised and unsupervised machine learning; model interpretability (SHAP); fairness auditing\nData: Longitudinal electronic health record (EHR) analytics; feature engineering; cohort construction; SQL/SQLite\nReporting & delivery: Quarto (HTML, PDF, DOCX); Shiny dashboards; Power BI; Git-based reproducible workflows\nApplied AI: Retrieval-augmented generation (RAG); local LLM integration (Ollama); vector databases (ChromaDB)\nTools & OS: Positron, RStudio, VS Code, Jupyter, Neovim · Linux, macOS, Windows\n\n\n\n\n\nCompass Child & Youth Mental Health, Sudbury, ON · 2023–Present\nSole data analyst for a mental health agency of 100+ staff serving thousands of clients annually across counselling, walk-in, and supervised-access programs.\n\nOwn the full analytics pipeline for a longitudinal EHR dataset spanning 2013 to present — extraction, cleaning, linkage, feature engineering, and modelling — in R and Python.\nBuilt and maintain reproducible Quarto-based reporting that produces weekly, monthly, and quarterly reports used by leadership, program managers, and clinical teams.\nDeveloped interpretable machine-learning models in R to forecast clinician workload from EHR data; operational dashboard integration in progress.\nDesigned and deployed an internal retrieval-augmented-generation (RAG) system over agency policy documents, reducing time-to-answer for staff policy questions.\nImplemented two validated organizational-health instruments for annual workplace monitoring; analyze year-over-year results and present findings to executive leadership.\nTranslate complex analytical findings for non-technical audiences — clinicians, program managers, and executives — through briefings, reports, and ad-hoc analysis.\n\n\n\n\nOver a decade of earlier technical work including web development, front-end and UI work, and technical systems support across multiple agencies and in-house teams.\n\n\n\n\nMA, Experimental Psychology (Computational Science focus) — Laurentian University, 2023–2026 (thesis submitted, pending oral defense)\nGranted special permission to complete graduate-level Computational Science coursework (Artificial Intelligence & Machine Learning, Data Mining).\nThesis: Beyond Counting Clients — Developing a Fair Measure of Clinical Workload with Machine Learning. Applied interpretable ML to longitudinal EHR data from a community mental health agency; used multilevel variance decomposition to quantify how much workload is actually predictable from client-level intake data (answer: less than most complexity-weighted caseload tools assume). Supervisors: Dr. Michael Emond, Dr. Kalpdrum Passi.\nBSc Honours, Applied Science / Psychology Specialization — Laurentian University, 2019–2022 Magna Cum Laude.\nAwards: Ontario Graduate Scholarship (2025); IAMGOLD President’s Innovation Fund (2025).\n\n\n\nYouth Hub Visit Tracking System (deployment Feb 2026) — Designed a QR-based check-in and analytics system backed by a relational SQLite database, for longitudinal tracking of youth program utilization at a community hub.\nPolicy Document RAG Assistant — Production RAG system over agency policy documents; local LLM inference, vector store, retrieval evaluation.\n\n\n\nPublished preprint in autonomous human–robot interaction (affect-adaptive dialogue systems on the Misty-II platform; under peer review). arxiv.org/abs/2603.00154"
+    "text": "My favourite kind of problem is messy. Give me a giant health record dataset with 13 possible joins, a pile of wonky Excel files, a robot that only behaves on a strict set of rules when you need it to do more, or a question a clinical team has been asking for years — I want to figure out which code or tools will turn that mess into something actually useful.\nI came to research the long way around: early-web work in the Netherlands, a stint as a youth officer in secure custody, a decade running an award-winning wedding-photography business. Each was its own version of the same passion — learning a new system and paying close attention to how people actually behaved inside it. That’s still what my research is about, whether the system is a machine-learning model running on clinical data or a small robot trying to hold a conversation."
   },
   {
-    "objectID": "final-sheron-cv.html#summary",
-    "href": "final-sheron-cv.html#summary",
-    "title": "Shauna Heron",
-    "section": "",
-    "text": "Data scientist with five years of applied experience turning messy, real-world data into production-quality analytics. Currently the sole data lead for a community mental health agency, where I build predictive models, reproducible reports, and interpretable machine-learning workflows that clinicians and executives rely on daily. Graduate training in experimental psychology and machine learning underpins the statistical depth of the work. I look for roles where the problem is genuinely hard, the data is genuinely messy, and the work matters."
+    "objectID": "about.html#what-im-working-on-right-now",
+    "href": "about.html#what-im-working-on-right-now",
+    "title": "About Shauna Heron",
+    "section": "What I’m working on right now",
+    "text": "What I’m working on right now\n\nFinishing my master’s thesis — a machine-learning analysis of clinician workload in community mental health care — and preparing for my oral defense.\nRaising a teenager in the wilds of northern Ontario, which is a full-time job in itself."
   },
   {
-    "objectID": "final-sheron-cv.html#technical-skills",
-    "href": "final-sheron-cv.html#technical-skills",
-    "title": "Shauna Heron",
-    "section": "",
-    "text": "Languages: R (daily driver), Python, SQL, Bash\nR ecosystem: tidyverse, tidymodels, ggplot2, lme4, Shiny, Quarto\nPython ecosystem: pandas, scikit-learn, PyTorch, Hugging Face, spaCy, LangChain\nStatistics & modelling: Generalized linear and mixed-effects models; Bayesian hierarchical models; supervised and unsupervised machine learning; model interpretability (SHAP); fairness auditing\nData: Longitudinal electronic health record (EHR) analytics; feature engineering; cohort construction; SQL/SQLite\nReporting & delivery: Quarto (HTML, PDF, DOCX); Shiny dashboards; Power BI; Git-based reproducible workflows\nApplied AI: Retrieval-augmented generation (RAG); local LLM integration (Ollama); vector databases (ChromaDB)\nTools & OS: Positron, RStudio, VS Code, Jupyter, Neovim · Linux, macOS, Windows"
-  },
-  {
-    "objectID": "final-sheron-cv.html#professional-experience",
-    "href": "final-sheron-cv.html#professional-experience",
-    "title": "Shauna Heron",
-    "section": "",
-    "text": "Compass Child & Youth Mental Health, Sudbury, ON · 2023–Present\nSole data analyst for a mental health agency of 100+ staff serving thousands of clients annually across counselling, walk-in, and supervised-access programs.\n\nOwn the full analytics pipeline for a longitudinal EHR dataset spanning 2013 to present — extraction, cleaning, linkage, feature engineering, and modelling — in R and Python.\nBuilt and maintain reproducible Quarto-based reporting that produces weekly, monthly, and quarterly reports used by leadership, program managers, and clinical teams.\nDeveloped interpretable machine-learning models in R to forecast clinician workload from EHR data; operational dashboard integration in progress.\nDesigned and deployed an internal retrieval-augmented-generation (RAG) system over agency policy documents, reducing time-to-answer for staff policy questions.\nImplemented two validated organizational-health instruments for annual workplace monitoring; analyze year-over-year results and present findings to executive leadership.\nTranslate complex analytical findings for non-technical audiences — clinicians, program managers, and executives — through briefings, reports, and ad-hoc analysis.\n\n\n\n\nOver a decade of earlier technical work including web development, front-end and UI work, and technical systems support across multiple agencies and in-house teams."
-  },
-  {
-    "objectID": "final-sheron-cv.html#education",
-    "href": "final-sheron-cv.html#education",
-    "title": "Shauna Heron",
-    "section": "",
-    "text": "MA, Experimental Psychology (Computational Science focus) — Laurentian University, 2023–2026 (thesis submitted, pending oral defense)\nGranted special permission to complete graduate-level Computational Science coursework (Artificial Intelligence & Machine Learning, Data Mining).\nThesis: Beyond Counting Clients — Developing a Fair Measure of Clinical Workload with Machine Learning. Applied interpretable ML to longitudinal EHR data from a community mental health agency; used multilevel variance decomposition to quantify how much workload is actually predictable from client-level intake data (answer: less than most complexity-weighted caseload tools assume). Supervisors: Dr. Michael Emond, Dr. Kalpdrum Passi.\nBSc Honours, Applied Science / Psychology Specialization — Laurentian University, 2019–2022 Magna Cum Laude.\nAwards: Ontario Graduate Scholarship (2025); IAMGOLD President’s Innovation Fund (2025)."
-  },
-  {
-    "objectID": "final-sheron-cv.html#selected-projects",
-    "href": "final-sheron-cv.html#selected-projects",
-    "title": "Shauna Heron",
-    "section": "",
-    "text": "Youth Hub Visit Tracking System (deployment Feb 2026) — Designed a QR-based check-in and analytics system backed by a relational SQLite database, for longitudinal tracking of youth program utilization at a community hub.\nPolicy Document RAG Assistant — Production RAG system over agency policy documents; local LLM inference, vector store, retrieval evaluation."
-  },
-  {
-    "objectID": "final-sheron-cv.html#other",
-    "href": "final-sheron-cv.html#other",
-    "title": "Shauna Heron",
-    "section": "",
-    "text": "Published preprint in autonomous human–robot interaction (affect-adaptive dialogue systems on the Misty-II platform; under peer review). arxiv.org/abs/2603.00154"
-  },
-  {
-    "objectID": "posts/misty-poster/index.html",
-    "href": "posts/misty-poster/index.html",
-    "title": "Building a Research Poster in Quarto",
-    "section": "",
-    "text": "Adding a how to here!"
+    "objectID": "about.html#what-im-curious-about",
+    "href": "about.html#what-im-curious-about",
+    "title": "About Shauna Heron",
+    "section": "What I’m curious about",
+    "text": "What I’m curious about\n\nApplications of data science in public and population health–especially mental health, and especially in community settings. I want to know how we can use data to make care more effective, efficient, and equitable, without adding to the burden on clinicians or patients.\nWhen is a machine-learning model the right tool for a clinical or operational problem, and — more often — when is it the wrong one? I’m interested in interpretable models, fairness audits, and being honest about what a model can’t do.\nHow do we design robots that people can actually work with? I want to understand how people form trust in autonomous systems, and how we can design those systems to be trustworthy in the real world."
   }
 ]
